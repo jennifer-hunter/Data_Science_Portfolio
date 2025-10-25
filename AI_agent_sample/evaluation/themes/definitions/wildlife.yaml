@@ -1,0 +1,56 @@
+name: "wildlife"
+display_name: "Wildlife Photography"
+description: "Natural wildlife photography capturing animals in their native habitats"
+
+theme_specific_notes: |
+  WILDLIFE HYPERREALISTIC REQUIREMENTS:
+  - Animal features: fur/feather detail, natural expressions, behavioral authenticity
+  - Habitat: natural environment details, ecosystem context, seasonal elements
+  - Behavior: authentic animal actions, natural postures, instinctive movements
+  - Environment: vegetation, terrain, weather conditions, natural lighting
+  - Include wildlife authenticity, natural imperfections, environmental storytelling
+  - Minimum 130 words focusing on natural wildlife behavior and habitat
+
+lighting_styles:
+  natural_habitat:
+    name: "NATURAL HABITAT WILDLIFE STYLE"
+    description: "Natural environmental lighting for authentic wildlife documentation"
+    instructions: |
+      ENHANCE PROMPT TO BE HYPERREALISTIC AND HIGHLY DETAILED:
+      - MUST ADD: 'Hyperrealistic photograph', 'photorealistic wildlife photography', '8K resolution'
+      - MUST ADD: 'Ultra-detailed wildlife documentation', 'professional nature photography'
+      - MUST ADD: 'Natural habitat lighting', 'authentic environmental conditions'
+      - MUST ADD: Extensive animal details (fur/feather texture, expressions, natural behavior)
+      - MUST ADD: Detailed habitat elements (vegetation, terrain, ecosystem context)
+      - MUST ADD: Background elements (natural environment, wildlife habitat, atmospheric conditions)
+
+      TECHNICAL CAMERA SPECIFICATIONS (MANDATORY):
+      - Add: 'Shot with 400mm telephoto lens at f/5.6 aperture'
+      - Add: 'ISO 800, 1/1000s shutter speed for wildlife action'
+      - Add: 'Full frame sensor, 45 megapixel resolution'
+      - Add: 'Professional wildlife photography setup'
+      - Add: 'Natural lighting with fast autofocus'
+      - Add: 'Image stabilization for handheld telephoto'
+      - Add: 'Weather-sealed equipment for outdoor conditions'
+      - Add: 'Natural color reproduction for wildlife accuracy'
+    evaluation_criteria: |
+      REQUIRED HYPERREALISTIC ELEMENTS (ALL MANDATORY):
+      - 'Hyperrealistic' or 'photorealistic' explicitly stated
+      - Wildlife or animal subject mentioned
+      - Natural habitat or environment described
+      - Authentic animal behavior included
+    color_palette: "natural habitat colors, earth tones, wildlife patterns, environmental hues"
+
+keywords:
+  - "wildlife"
+  - "animal"
+  - "nature"
+  - "wild"
+  - "habitat"
+  - "natural"
+  - "species"
+  - "behavior"
+  - "conservation"
+  - "ecosystem"
+
+minimum_word_count: 60

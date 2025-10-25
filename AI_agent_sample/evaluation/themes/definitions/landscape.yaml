@@ -1,0 +1,86 @@
+name: "landscape"
+display_name: "Landscape Photography"
+description: "Natural landscape and scenic photography with emphasis on environmental beauty"
+
+theme_specific_notes: |
+  LANDSCAPE HYPERREALISTIC REQUIREMENTS:
+  - Geological features: rock textures, soil composition, erosion patterns
+  - Vegetation: individual leaves, bark detail, seasonal characteristics
+  - Atmospheric: cloud formations, light quality, weather effects
+  - Water features: surface textures, reflections, movement patterns
+  - Include environmental storytelling, natural processes, seasonal indicators
+  - Minimum 150 words capturing authentic natural environment
+
+lighting_styles:
+  golden_hour:
+    name: "GOLDEN HOUR LANDSCAPE STYLE"
+    description: "Warm golden lighting during sunrise or sunset for dramatic landscape photography"
+    instructions: |
+      ENHANCE PROMPT TO BE HYPERREALISTIC AND HIGHLY DETAILED:
+      - MUST ADD: 'Hyperrealistic photograph', 'photorealistic landscape photography', '8K resolution'
+      - MUST ADD: 'Ultra-detailed natural landscape', 'professional scenic photography'
+      - MUST ADD: 'Golden hour lighting', 'warm ambient natural light', 'dramatic sky illumination'
+      - MUST ADD: Extensive geological details (rock formations, soil textures, natural patterns)
+      - MUST ADD: Detailed vegetation elements (tree bark, leaf textures, plant structures)
+      - MUST ADD: Background elements (sky formations, distant features, atmospheric perspective)
+
+      TECHNICAL CAMERA SPECIFICATIONS (MANDATORY):
+      - Add: 'Shot with 16-35mm wide-angle lens at f/11 aperture'
+      - Add: 'ISO 100, 1/30s shutter speed on sturdy tripod'
+      - Add: 'Full frame sensor, 61 megapixel resolution'
+      - Add: 'Professional landscape photography setup'
+      - Add: 'Golden hour natural lighting with graduated filters'
+      - Add: 'Enhanced warm color temperature'
+      - Add: 'Circular polarizer for sky contrast'
+      - Add: 'Focus stacking for infinite sharpness'
+    evaluation_criteria: |
+      REQUIRED HYPERREALISTIC ELEMENTS (ALL MANDATORY):
+      - 'Hyperrealistic' or 'photorealistic' explicitly stated
+      - 'Landscape' or natural features mentioned
+      - Minimum 60+ words of detailed description
+      - Geological or vegetation details included
+      - Golden hour lighting described
+    color_palette: "warm golden light, amber sky, rich earth tones, sunset colors"
+
+  blue_hour:
+    name: "BLUE HOUR LANDSCAPE STYLE"
+    description: "Cool twilight lighting during blue hour for serene landscape photography"
+    instructions: |
+      ENHANCE PROMPT TO BE HYPERREALISTIC AND HIGHLY DETAILED:
+      - MUST ADD: 'Hyperrealistic photograph', 'photorealistic twilight landscape', '8K resolution'
+      - MUST ADD: 'Blue hour landscape photography', 'serene twilight atmosphere'
+      - MUST ADD: 'Professional scenic twilight documentation'
+      - MUST ADD: Extensive twilight details (cool lighting, star emergence, silhouettes)
+      - MUST ADD: Detailed landscape silhouettes (mountain profiles, tree lines)
+      - MUST ADD: Background elements (twilight sky, early stars, atmospheric glow)
+
+      TECHNICAL CAMERA SPECIFICATIONS (MANDATORY):
+      - Add: 'Shot with 24-70mm lens at f/8 aperture'
+      - Add: 'ISO 400, 15s long exposure on carbon fiber tripod'
+      - Add: 'Full frame sensor, 50 megapixel resolution'
+      - Add: 'Blue hour twilight photography'
+      - Add: 'Cool color temperature enhancement'
+      - Add: 'Long exposure for smooth water/cloud motion'
+      - Add: 'Neutral density filter for exposure control'
+      - Add: 'Star-point filter for light sources'
+    evaluation_criteria: |
+      REQUIRED HYPERREALISTIC ELEMENTS (ALL MANDATORY):
+      - 'Hyperrealistic' or 'photorealistic' stated
+      - 'Blue hour' or twilight mentioned
+      - Landscape features described
+      - Cool lighting characteristics included
+    color_palette: "cool blues, purple twilight, silhouette contrasts, atmospheric tones"
+
+keywords:
+  - "landscape"
+  - "scenic"
+  - "nature"
+  - "mountain"
+  - "valley"
+  - "forest"
+  - "horizon"
+  - "vista"
+  - "natural"
+  - "environment"
+
+minimum_word_count: 60

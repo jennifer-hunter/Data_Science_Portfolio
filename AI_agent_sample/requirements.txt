@@ -1,0 +1,23 @@
+# Core API integrations
+openai==1.12.0
+replicate==0.20.0  # Image generation API (currently using Replicate SDK)
+python-dotenv==1.0.1
+
+# Image processing
+Pillow==10.2.0
+
+# HTTP requests
+requests==2.31.0
+
+# Async agent framework (for prompt_judge.py)
+# Note: openai-agents provides the agents module for OpenAI integration
+openai-agents
+
+# Database (SQLite is built-in to Python)
+# No external dependency needed
+
+# Data handling
+pyyaml==6.0.1
+
+# Async support (built-in for Python 3.7+)
+# asyncio is part of standard library
