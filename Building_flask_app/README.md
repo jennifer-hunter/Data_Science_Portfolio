@@ -15,7 +15,7 @@ performance tracking, order creation, and employee data management.
 
 ## Setup
 - Run `bike_shop_db_setup.sql` to create the database and populate with sample data
-- Update `config.py` with your MySQL credentials
+- Copy `config.py.example` to `config.py` and update with your MySQL credentials
 - Install dependencies: `pip install flask requests tabulate mysql-connector-python`
 - Start the Flask server: `python app.py` (runs on port 5004)
 - Run the client interface: `python client_side.py`
