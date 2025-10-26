@@ -19,7 +19,7 @@ A MySQL database schema with analytical queries for retail inventory and sales t
 
 ---
 
-### 2. [Bike Shop Management API](./Building_flask_app)  (Coming Soon)
+### 2. [Bike Shop Management API](./Building_flask_app)
 A Flask REST API with command-line client for managing bike shop operations.
 
 **Key Features:**
