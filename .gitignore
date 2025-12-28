@@ -209,14 +209,8 @@ __marimo__/
 # Project-specific exclusions
 
 
-# AI Agent Sample - exclude generated content and data
-AI_agent_sample/*.db
-AI_agent_sample/*.sqlite
-AI_agent_sample/*.sqlite3
-AI_agent_sample/approved_prompts/
-AI_agent_sample/generator_pics/
-AI_agent_sample/generator_prompts/
-AI_agent_sample/generator_prompts_raw/
+# AI Agent Sample - exclude entire directory
+AI_agent_sample/
 
 # Additional sensitive files
 config.py
