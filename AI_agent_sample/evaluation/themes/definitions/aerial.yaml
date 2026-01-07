@@ -1,0 +1,85 @@
+name: "aerial"
+display_name: "Aerial Photography"
+description: "High-altitude and drone photography capturing landscapes and subjects from above"
+
+theme_specific_notes: |
+  AERIAL HYPERREALISTIC REQUIREMENTS:
+  - Perspective: bird's eye view, altitude effects, scale relationships, geometric patterns
+  - Landscape features: terrain textures, river systems, forest patterns, urban layouts
+  - Atmospheric conditions: haze layers, cloud interactions, visibility effects
+  - Technical challenges: altitude lighting, distance compression, aerial clarity
+  - Include altitude authenticity, geographic storytelling, aerial perspective accuracy
+  - Minimum 130 words focusing on authentic aerial viewpoint and landscape details
+
+lighting_styles:
+  high_altitude:
+    name: "HIGH ALTITUDE AERIAL STYLE"
+    description: "Clear high-altitude lighting with enhanced contrast and visibility"
+    instructions: |
+      ENHANCE PROMPT TO BE HYPERREALISTIC AND HIGHLY DETAILED:
+      - MUST ADD: 'Hyperrealistic photograph', 'photorealistic aerial photography', '8K resolution'
+      - MUST ADD: 'Ultra-detailed aerial landscape', 'professional drone photography'
+      - MUST ADD: 'High altitude lighting', 'clear aerial visibility'
+      - MUST ADD: Extensive terrain details (surface textures, geological patterns, landscape features)
+      - MUST ADD: Detailed perspective elements (scale relationships, altitude effects, aerial geometry)
+      - MUST ADD: Background elements (horizon line, atmospheric layers, distant features)
+
+      TECHNICAL CAMERA SPECIFICATIONS (MANDATORY):
+      - Add: 'Shot with gimbal-stabilized camera at f/5.6 aperture'
+      - Add: 'ISO 100, 1/500s shutter speed from 400 feet altitude'
+      - Add: 'Professional drone sensor, 48 megapixel resolution'
+      - Add: 'High-altitude aerial photography setup'
+      - Add: 'GPS-stabilized flight platform'
+      - Add: 'Crystal clear atmospheric conditions'
+      - Add: 'Professional aerial survey quality'
+      - Add: 'Enhanced contrast for aerial clarity'
+    evaluation_criteria: |
+      REQUIRED HYPERREALISTIC ELEMENTS (ALL MANDATORY):
+      - 'Hyperrealistic' or 'photorealistic' explicitly stated
+      - 'Aerial' or altitude perspective mentioned
+      - Landscape or terrain features described
+      - High-altitude lighting characteristics included
+    color_palette: "aerial landscape colors, natural terrain tones, altitude clarity"
+
+  golden_hour_aerial:
+    name: "GOLDEN HOUR AERIAL STYLE"
+    description: "Warm golden hour lighting from aerial perspective with dramatic shadows"
+    instructions: |
+      ENHANCE PROMPT TO BE HYPERREALISTIC AND HIGHLY DETAILED:
+      - MUST ADD: 'Hyperrealistic photograph', 'photorealistic golden hour aerial', '8K resolution'
+      - MUST ADD: 'Golden hour aerial photography', 'warm altitude illumination'
+      - MUST ADD: 'Professional sunset drone photography'
+      - MUST ADD: Extensive shadow details (aerial shadow patterns, terrain relief, golden light interaction)
+      - MUST ADD: Detailed atmospheric elements (golden hour atmosphere, warm aerial lighting)
+      - MUST ADD: Background elements (golden horizon, aerial vista, landscape depth)
+
+      TECHNICAL CAMERA SPECIFICATIONS (MANDATORY):
+      - Add: 'Shot with drone camera at f/4 aperture'
+      - Add: 'ISO 200, 1/250s shutter speed at golden hour'
+      - Add: 'Professional drone platform, 50 megapixel sensor'
+      - Add: 'Golden hour aerial photography'
+      - Add: 'Warm color temperature from altitude'
+      - Add: 'Enhanced golden light capture'
+      - Add: 'Aerial landscape optimization'
+      - Add: 'Professional aerial cinematography quality'
+    evaluation_criteria: |
+      REQUIRED HYPERREALISTIC ELEMENTS (ALL MANDATORY):
+      - 'Hyperrealistic' or 'photorealistic' stated
+      - 'Golden hour' aerial lighting mentioned
+      - Aerial perspective or altitude described
+      - Warm lighting characteristics included
+    color_palette: "golden aerial light, warm landscape tones, sunset altitude colors"
+
+keywords:
+  - "aerial"
+  - "drone"
+  - "overhead"
+  - "altitude"
+  - "bird's eye"
+  - "landscape"
+  - "terrain"
+  - "topography"
+  - "perspective"
+  - "geography"
+
+minimum_word_count: 65
