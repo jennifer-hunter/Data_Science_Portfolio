@@ -2,9 +2,11 @@
 
 ### Authors: Jennifer Hunter and Claude Code (Anthropic)
 
-An end-to-end automated data pipeline orchestrating multiple AI agents to generate, evaluate, and optimize photography prompts for image generation. This repository showcases one complete agent workflow from a larger multi-agent system, demonstrating production-ready data engineering practices including ETL processes, database management, API integration, and workflow automation.
+An end-to-end automated data pipeline orchestrating multiple AI agents to generate, evaluate, and optimise photography prompts for image generation. This repository showcases one complete agent workflow from a larger multi-agent system, demonstrating production-ready data engineering practices including ETL processes, database management, API integration, and workflow automation.
 
 > **Note:** This project represents a single agent pipeline extracted from a larger multi-agent orchestration system. It demonstrates the architecture, data flow, and coordination patterns applicable to complex multi-agent workflows.
+
+> **Sample Images Notice:** The generated images included in this repository are demonstration outputs only and are not indicative of full production quality. These samples have not passed through the complete pipeline, including the self-learning training loop, and therefore do not benefit from the accumulated training weights that optimise output quality in the full system.
 
 ---
 
@@ -25,6 +27,23 @@ This document contains visual flowcharts covering:
 
 ---
 
+## 🤖 Agent Architecture Documentation
+
+**For detailed documentation of the multi-agent system architecture, including agent hierarchies, communication patterns, and specialised components, see:**
+
+### **[AGENT_ARCHITECTURE.md](./AGENT_ARCHITECTURE.md)**
+
+This document covers the complete agent ecosystem:
+- **3-tier hierarchical design** (Orchestrators → Pipeline Coordinators → Specialised Agents)
+- **14 primary agents + 20 specialised sub-components**
+- Content strategy, creative content, and music intelligence agents
+- Quality evaluation judges for photos, captions, hashtags, videos, and carousels
+- Agent communication patterns and coordination workflows
+
+**Codebase Scale:** The full production system comprises over **3 million lines of code** across all modules, integrations, and supporting infrastructure.
+
+---
+
 ## Data Science Skills Demonstrated
 
 ### Data Engineering & Pipeline Architecture
@@ -41,16 +60,16 @@ This document contains visual flowcharts covering:
 - Concurrent API calls using Python async/await patterns
 
 ### Data Processing & Transformation
-- Text processing with regex-based parsing, cleaning, and optimization
-- Data format conversion (detailed prompts → generator-optimized prompts)
+- Text processing with regex-based parsing, cleaning, and optimisation
+- Data format conversion (detailed prompts → generator-optimised prompts)
 - Metadata extraction and enrichment throughout pipeline stages
-- Compression ratio analysis and character count optimization
+- Compression ratio analysis and character count optimisation
 
 ### Database Management & SQL
 - Schema design for workflow tracking (sessions, prompts, evaluations, reformats, images)
-- CRUD operations with parameterized queries and SQL injection prevention
+- CRUD operations with parameterised queries and SQL injection prevention
 - Complex JOINs for cross-table analytics and reporting
-- Database indexing and query optimization for performance
+- Database indexing and query optimisation for performance
 - Session filtering and timestamp-based data retrieval
 
 ### Python Programming & Software Engineering
@@ -78,8 +97,8 @@ Stage 2: Quality Evaluation (evaluation/prompt_judge.py)
    ↓ AI-powered iterative refinement and approval workflow
    ↓ Tracks evaluation scores, feedback, and iteration history
 
-Stage 3: Format Optimization (evaluation/reformatter.py)
-   ↓ Converts detailed prompts to generator-optimized format
+Stage 3: Format Optimisation (evaluation/reformatter.py)
+   ↓ Converts detailed prompts to generator-optimised format
    ↓ Calculates compression ratios and tracks transformations
 
 Stage 4: Image Generation (image_generation/image_generator.py)
@@ -92,7 +111,7 @@ Stage 4: Image Generation (image_generation/image_generator.py)
 **pipeline_sessions** - Session-level tracking with execution statistics
 **generated_prompts** - Raw prompts with theme, approach, and variation metadata  
 **prompt_evaluations** - Iterative refinement history with scores and feedback
-**reformatted_prompts** - Optimized prompts with compression metrics
+**reformatted_prompts** - Optimised prompts with compression metrics
 **generated_images** - Final images with generation metadata and file paths
 
 Foreign key relationships ensure referential integrity across all pipeline stages.
@@ -181,7 +200,7 @@ ai_agent_automation/
 │   └── create_prompts.py      # Stage 1: Prompt generation with GPT-4o
 ├── evaluation/
 │   ├── prompt_judge.py        # Stage 2: Quality evaluation workflow
-│   ├── reformatter.py         # Stage 3: Format optimization
+│   ├── reformatter.py         # Stage 3: Format optimisation
 │   └── themes/                # YAML-based theme configuration system
 │       ├── theme_loader.py    # Dynamic theme loading and caching
 │       ├── base_theme.py      # Theme class definitions
@@ -222,7 +241,7 @@ This project demonstrates data engineering and data science skills applicable to
 
 The database schema supports analytical queries including:
 - Success rates by theme and evaluation iteration
-- Prompt length optimization analysis (compression ratios)
+- Prompt length optimisation analysis (compression ratios)
 - Image generation success/failure rates
 - Session duration and throughput metrics
 - Comparative analysis across themes and approaches
@@ -245,6 +264,6 @@ Key considerations for production use:
 - Load testing for concurrent API operations
 - Error handling validation under various failure scenarios
 - Compliance review for data privacy and API terms of service
-- Performance optimization for production-scale workloads
+- Performance optimisation for production-scale workloads
 
 This project is intended for educational and portfolio demonstration purposes.

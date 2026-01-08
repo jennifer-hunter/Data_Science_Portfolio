@@ -96,7 +96,7 @@ A text-based game that fetches and transforms JSON data from PokéAPI to simulat
 - Database schema design
 - Foreign key constraints and data integrity
 - SQL aggregations and JOINs
-- Query optimization
+- Query optimisation
 
 ### Data Processing & Transformation
 - API data extraction and cleaning
@@ -135,7 +135,7 @@ A text-based game that fetches and transforms JSON data from PokéAPI to simulat
 - Virtual environments*
 - Dependency management*
 - Documentation (docstrings, README files)
-- Code organization and project structure*
+- Code organisation and project structure*
 
 ### Problem Solving
 - API rate limiting and error handling*
