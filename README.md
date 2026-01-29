@@ -75,6 +75,26 @@ A text-based game that fetches and transforms JSON data from PokéAPI to simulat
 
 ---
 
+### 5. [Museum Collections & Visitor Analysis](./Museum_Project) (Group Project)
+A collaborative data science project analysing UK national museum collections, visitor footfall trends, and KPIs. Completed using Agile methodology as part of a 6-person team.
+
+**My Contributions:**
+- Footfall data cleaning and time series preparation
+- Machine learning model development (XGBoost, ARIMA, Linear Regression)
+- Cross-validation implementation and model evaluation
+
+**Key Features:**
+- Multi-source data integration (V&A API, British Museum, DCMS datasets)
+- Time series analysis with seasonality detection
+- Predictive modelling for visitor footfall forecasting
+- Comprehensive data visualisations
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, XGBoost, Statsmodels, Matplotlib, Seaborn, Jupyter Notebooks
+
+**Development Note:** Group project completed with Agile methodology. Individual contributions noted above.
+
+---
+
 ## Skills Demonstrated
 
 **Note:** Skills marked with an asterisk (*) were developed with AI assistance and represent areas where I am building proficiency through AI-augmented learning. These skills reflect my ability to collaborate with AI tools to understand and implement advanced concepts, though independent mastery is still in development.
@@ -103,10 +123,10 @@ A text-based game that fetches and transforms JSON data from PokéAPI to simulat
 - JSON parsing and manipulation
 - String processing and data validation
 - Data persistence strategies*
-- Time series data reshaping and preparation (project coming soon)
-- Multi-source data integration (project coming soon)
+- Time series data reshaping and preparation
+- Multi-source data integration
 
-### Machine Learning & Statistical Analysis (project coming soon)
+### Machine Learning & Statistical Analysis
 - Time series forecasting (XGBoost, ARIMA)
 - Model selection and evaluation
 - Cross-validation techniques (TimeSeriesSplit)
@@ -173,7 +193,8 @@ Data_Science_Portfolio/
 ├── AI_agent_sample/             # 1. AI Image Generation Pipeline
 ├── MySQL_db_project/            # 2. Bike Shop Database
 ├── Building_flask_app/          # 3. Bike Shop Management API
-└── Transforming_API_data/       # 4. Monster Battle Game
+├── Transforming_API_data/       # 4. Monster Battle Game
+└── Museum_Project/              # 5. Museum Collections & Visitor Analysis
 ```
 
 ---

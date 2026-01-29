@@ -1,0 +1,404 @@
+RecordID,Museum,AcqDate,ObjectType,ItemDate,ModernCountry,ItemMaterial,ItemTechnique,CorrectedStartDate,CorrectedEndDate,CorrectedMidpointDate
+119,BM,2017,bust; figure,420BC-400BC,Greece,terracotta,painted; mould-made,-420.0,-400.0,-410.0
+123,BM,2017,bust,2012,United Kingdom,bronze,,2012.0,2012.0,2012.0
+139,BM,2010,bust,2010,United Kingdom,iron,cast,2010.0,2010.0,2010.0
+222,BM,2012,doll; figurine; sequin,1950s-1960s,Palestine,metal; cotton; cardboard,embroidered,1950.0,1969.0,1960.0
+226,BM,2012,doll; figurine,1950s-1960s,Palestine,metal; cotton; cardboard,embroidered,1950.0,1969.0,1960.0
+230,BM,2009,doll,late 16th century,,pewter,,1501.0,1600.0,1550.0
+235,BM,2012,doll; figurine,1950s-1960s,Palestine,metal; cotton; cardboard,embroidered,1950.0,1969.0,1960.0
+267,BM,2022,figure,5thC BC - 2ndC BC,China,jade,cut; incised,-500.0,-101.0,-300.0
+275,BM,2022,figure,15thC BC-10thC BC,China,jade,carved; polished; incised,-1500.0,-901.0,-1200.0
+305,BM,2005,figure,1773 (circa),United Kingdom,porcelain,moulded,1773.0,1773.0,1773.0
+354,BM,2022,figure,4700BC-2900BC,China,jade,drilled,-4700.0,-2900.0,-3800.0
+359,BM,2018,figure,16thC-17thC,China,ivory,carved,1501.0,1700.0,1600.0
+404,BM,2022,figure,13thC-14thC,China,jade,incised,1201.0,1400.0,1300.0
+445,BM,2022,figure,10thC-12thC,China,jade; gold,polished; carved,901.0,1200.0,1050.0
+498,BM,2011,figure,2011 (about),,fibre; wood; bark; ochre; pandanus fibre,twined (basketry),2011.0,2011.0,2011.0
+500,BM,2018,figure,2000,South Korea,porcelain,glazed,2000.0,2000.0,2000.0
+503,BM,2022,figure,10thC-13thC,China,jade,carved; incised,901.0,1300.0,1100.0
+619,BM,2022,figure,15thC BC-10thC BC,China,jade,incised; bevelled,-1500.0,-901.0,-1200.0
+699,BM,2015,figure,2015,,porcelain,glazed; painted; mould-made,2015.0,2015.0,2015.0
+714,BM,2022,figure,2ndC BC-2ndC AD,China,jade,polished; bevelled; drilled,-200.0,200.0,0.0
+743,BM,2022,figure,11thC BC-8thC BC,China,jade,bevelled; incised,-1100.0,-701.0,-900.0
+789,BM,2011,figure,2011 (about),,fibre; wood,,2011.0,2011.0,2011.0
+810,BM,2022,figure,11thC BC-8thC BC,China,jade; cinnabar,carved; incised,-1100.0,-701.0,-900.0
+815,BM,2022,figure,15thC BC-10thC BC,China,jade,incised,-1500.0,-901.0,-1200.0
+874,BM,2022,figure,2ndC BC-2ndC AD,China,jade,incised; bevelled,-200.0,200.0,0.0
+907,BM,2022,figure,14thC-17thC,China,jade,carved,1301.0,1700.0,1500.0
+918,BM,2018,figure,16thC-17thC,China,ivory; turquoise,carved,1501.0,1700.0,1600.0
+1058,BM,2009,figure,350BC (about),Greece,terracotta,mould-made,-350.0,-350.0,-350.0
+1071,BM,2022,figure,11thC BC-8thC BC,China,jade,incised,-1100.0,-701.0,-900.0
+1137,BM,2005,figure,,,terracotta,painted,,,
+1182,BM,2022,figure,7thC-12thC,China,jade,polished,601.0,1200.0,900.0
+1218,BM,2022,figure,11thC BC-8thC BC,China,jade,incised,-1100.0,-701.0,-900.0
+1243,BM,2016,figure,1350-1375,United Kingdom,alabaster; gold,carved; painted; gilded,1350.0,1375.0,1362.0
+1317,BM,2022,figure,4700BC-2900BC,China,jade,incised,-4700.0,-2900.0,-3800.0
+1416,BM,2022,figure,10thC-13thC,China,jade,carved; incised,901.0,1300.0,1100.0
+1432,BM,2022,figure,5thC BC - 2ndC BC,China,jade,polished; incised,-500.0,-101.0,-300.0
+1434,BM,2022,figure,4thC BC- 1stC BC,China,jade; cinnabar,incised; pierced; carved,-400.0,-1.0,-200.0
+1457,BM,2022,figure,14thC-17thC,China,jade,carved,1301.0,1700.0,1500.0
+1475,BM,2022,figure,4thC BC- 1stC BC,China,jade; cinnabar,pierced; polished (?),-400.0,-1.0,-200.0
+1557,BM,2022,figure,12thC BC (circa),China,jade; cinnabar,bevelled; incised,-1200.0,-1101.0,-1150.0
+1648,BM,2015,figure,2015,,porcelain,glazed; painted; mould-made,2015.0,2015.0,2015.0
+1828,BM,2018,figure,1924,,earthenware,moulded; painted; glazed,1924.0,1924.0,1924.0
+1846,BM,2011,figure,1900-1920 (circa),Gabon,wood; brass; palm oil; resin,carved,1900.0,1920.0,1910.0
+1856,BM,2022,figure; fitting,11thC BC-8thC BC,China,jade; cinnabar,carved; incised,-1100.0,-701.0,-900.0
+1862,BM,2022,figure,7thC-10thC,China,jade,,601.0,1000.0,800.0
+1923,BM,2022,figure,2ndC BC-2ndC AD,China,jade,polished; incised,-200.0,200.0,0.0
+1958,BM,2022,figure,206 BC - 220 AD,China,jade,,-206.0,220.0,7.0
+1983,BM,2022,figure; paper-weight,13thC-14thC,China,jade,polished (?); incised,1201.0,1400.0,1300.0
+1989,BM,2022,figure,7thC-10thC,China,jade,carved,601.0,1000.0,800.0
+2148,BM,2022,figure,2ndC BC-2ndC AD,China,jade,polished; incised; bevelled,-200.0,200.0,0.0
+2194,BM,2022,figure,17thC-20thC,China,jade,carved; incised; polished,1601.0,2000.0,1800.0
+2211,BM,2022,figure,15thC BC-10thC BC,China,jade,carved; incised,-1500.0,-901.0,-1200.0
+2232,BM,2014,figure,9thC,Bangladesh,copper alloy,cast,801.0,900.0,850.0
+2237,BM,2022,figure,10thC-13thC,China,jade,carved; polished; incised,901.0,1300.0,1100.0
+2270,BM,2011,figure,2011 (about),,fibre; wood; pandanus fibre; paper; ochre,twined (basketry),2011.0,2011.0,2011.0
+2359,BM,2022,figure,12thC BC (circa),China,jade; cinnabar,incised,-1200.0,-1101.0,-1150.0
+2449,BM,2022,figure,18thC,China,jade,carved,1701.0,1800.0,1750.0
+2512,BM,2005,figure,,,terracotta,painted,,,
+2538,BM,2014,figurine; sculpture,1982,,earthenware,burnished; handmade,1982.0,1982.0,1982.0
+2576,BM,2011,figurine,2300BC-2200BC,Greece,marble,carved; painted,-2300.0,-2200.0,-2250.0
+2601,BM,2016,figurine,1stC-2ndC,,pipe-clay,,1.0,200.0,100.0
+2631,BM,2009,figurine,450BC-400BC,Greece,terracotta,mould-made,-450.0,-400.0,-425.0
+2638,BM,2005,figurine,3000BC (circa),,limestone,,-3000.0,-3000.0,-3000.0
+2661,BM,2016,figurine,1stC-2ndC,,pipe-clay,,1.0,200.0,100.0
+2663,BM,2013,figurine,2300BC-2000BC,,fired clay,painted,-2300.0,-2000.0,-2150.0
+2677,BM,2010,figurine,1-200,United Kingdom,copper alloy; lead,cast,1.0,200.0,100.0
+2685,BM,2013,figurine,2000BC (circa),Iran,fired clay,,-2000.0,-2000.0,-2000.0
+2699,BM,2014,figurine; sculpture,1986,,earthenware,burnished; handmade,1986.0,1986.0,1986.0
+2700,BM,2012,figurine,600 BC-400 BC,Cyprus,limestone,carved; painted,-600.0,-400.0,-500.0
+2704,BM,2006,figurine,2500BC (about),Japan,earthenware,,-2500.0,-2500.0,-2500.0
+2972,BM,2018,okimono; storage box,2017,Japan,glass,cast; polished,2017.0,2017.0,2017.0
+2981,BM,2014,panel; sculpture,9thc (first half),Pakistan,chlorite,carved,801.0,900.0,850.0
+2987,BM,2008,petroglyph,,,stone,,,,
+2988,BM,2008,petroglyph,,,stone,,,,
+2989,BM,2008,petroglyph,,,stone,,,,
+3079,BM,2009,relief,19thC,Iran,alabaster,carved; polished,1801.0,1900.0,1850.0
+3085,BM,2005,relief,(mid) 1stC  - 2ndC,Egypt,marble,,1.0,200.0,100.0
+3150,BM,2009,relief,1690-1696 (circa),France,ivory; wood; textile,carved,1690.0,1696.0,1693.0
+3198,BM,2010,sculpture,2009,,papier mâché,,2009.0,2009.0,2009.0
+3199,BM,2016,sculpture,6thC (second half),Pakistan,chlorite,carved,501.0,600.0,550.0
+3204,BM,2005,sculpture,2004,Mozambique,metal,welded,2004.0,2004.0,2004.0
+3205,BM,2018,sculpture,2017,United Kingdom,wood; metal,,2017.0,2017.0,2017.0
+3206,BM,2005,sculpture,2004,Mozambique,metal,welded,2004.0,2004.0,2004.0
+3207,BM,2018,sculpture,2017,United Kingdom,wood; metal,,2017.0,2017.0,2017.0
+3209,BM,2008,sculpture; window-ventilator,2007,Egypt,wood,lathe-turned; stained,2007.0,2007.0,2007.0
+3218,BM,2018,sculpture,2017,,wood,carved,2017.0,2017.0,2017.0
+3219,BM,2018,sculpture,2017,,,digitally generated,2017.0,2017.0,2017.0
+3220,BM,2018,sculpture,2017,United Kingdom,wood; metal,,2017.0,2017.0,2017.0
+3221,BM,2005,sculpture,2004,Mozambique,metal,welded,2004.0,2004.0,2004.0
+3222,BM,2018,sculpture,2017,United Kingdom,wood; metal,,2017.0,2017.0,2017.0
+3223,BM,2018,sculpture,2007,China,porcelain,qingbai glaze,2007.0,2007.0,2007.0
+3228,BM,2009,sculpture,2007,,wood; plastic; metal,carved; wirework,2007.0,2007.0,2007.0
+3229,BM,2018,sculpture,2018,United Kingdom,porcelain,overglaze enamel,2018.0,2018.0,2018.0
+3232,BM,2005,sculpture,1600-1800,China,jade,,1600.0,1800.0,1700.0
+3239,BM,2015,sculpture,2014,,porcelain; gold,glued; glazed,2014.0,2014.0,2014.0
+3249,BM,2015,sculpture; figure,2015,,steel; plastic; synthetic; textile; metal; wood; cotton; leather,painted,2015.0,2015.0,2015.0
+3259,BM,2006,sculpture,2005,,bronze,cast,2005.0,2005.0,2005.0
+3262,BM,2010,sculpture,2009,,papier mâché,,2009.0,2009.0,2009.0
+3265,BM,2005,sculpture,2004,Mozambique,metal,welded,2004.0,2004.0,2004.0
+3267,BM,2018,sculpture,2017,United Kingdom,wood; metal,,2017.0,2017.0,2017.0
+3271,BM,2018,sculpture,2017,United Kingdom,wood; metal,,2017.0,2017.0,2017.0
+3272,BM,2005,sculpture,2004,Mozambique,metal,welded,2004.0,2004.0,2004.0
+3275,BM,2017,sculpture,,,stone,carved,,,
+3279,BM,2018,sculpture,2017,United Kingdom,wood; metal,,2017.0,2017.0,2017.0
+3280,BM,2005,sculpture,2004,Mozambique,metal,welded,2004.0,2004.0,2004.0
+3286,BM,2005,sculpture,,United Kingdom,ceramic,mould-made; glazed,,,
+3287,BM,2005,sculpture,2004,Mozambique,metal,welded,2004.0,2004.0,2004.0
+3291,BM,2011,sculpture; stand,2005,China,stainless steel; wood,moulded; welded; polished; carved,2005.0,2005.0,2005.0
+3292,BM,2011,sculpture,,Tanzania,wood,carved; painted,,,
+3294,BM,2017,sculpture,2014,,jade,,2014.0,2014.0,2014.0
+3297,BM,2015,sculpture; figure,2015,,steel; plastic; synthetic; nylon; textile; metal; copper; wood; leather,painted; soldered,2015.0,2015.0,2015.0
+3298,BM,2020,sculpture,2018,South Korea,stoneware; gold; epoxy,glazed; glued,2018.0,2018.0,2018.0
+3301,BM,2017,sculpture,800 (about),,alabaster,carved,800.0,800.0,800.0
+3303,BM,2014,sculpture,2014,,steel; beeswax,pile-welded,2014.0,2014.0,2014.0
+3305,BM,2019,sculpture,2017,,paper; polystyrene; epoxy,dyed; glued,2017.0,2017.0,2017.0
+3307,BM,2013,sculpture,2012,China,porcelain; linen,sewn; handmade,2012.0,2012.0,2012.0
+3308,BM,2011,sculpture; copper,2011,,steel; copper,painted; plated,2011.0,2011.0,2011.0
+3329,BM,2015,sculpture; figure,2004 (circa),Zimbabwe,opal,carved; polished; incised,2004.0,2004.0,2004.0
+3569,BM,2014,statue,19thC BC,Egypt,serpentine,carved,-1900.0,-1801.0,-1850.0
+3737,BM,2009,statue,475BC-300BC,Cyprus,limestone,carved; painted,-475.0,-300.0,-388.0
+3869,BM,2009,statuette,200-300,United Kingdom,copper alloy; iron,,200.0,300.0,250.0
+3881,BM,2013,statuette,,,chlorite,carved; incised,,,
+3915,BM,2013,statuette,,,chlorite,carved; incised; inlaid (originally),,,
+3925,BM,2018,statuette,1600 (circa),,ceramic,tin-glazed,1600.0,1600.0,1600.0
+4448,VAM,2016,Sculpture,2015,United Kingdom,silver,forging,2015.0,2015.0,2015.0
+4450,VAM,2024,Sculpture,2021,United Kingdom,sterling silver,casting,2021.0,2021.0,2021.0
+4455,VAM,2023,Sculpture,2012,Italy,Carrara marble,Carving,2012.0,2012.0,2012.0
+4458,VAM,2013,Sculpture,2008-2009,United Kingdom,diamond,stone setting,2008.0,2009.0,2008.0
+4460,VAM,2024,Sculpture,2024,United Kingdom,sterling silver,raising,2024.0,2024.0,2024.0
+4466,VAM,2010,Sculpture,2009,,Earthenware,Burnishing,2009.0,2009.0,2009.0
+4469,VAM,2006,Sculpture,early 3rd century,,sandstone,,201.0,300.0,250.0
+4470,VAM,2013,Sculpture,2013,United Kingdom,Earthenware,moulded,2013.0,2013.0,2013.0
+4471,VAM,2023,Sculpture,2021,China,,,2021.0,2021.0,2021.0
+4473,VAM,2023,Ever Flowing Sculpure,2022,United Kingdom,sterling silver,raising,2022.0,2022.0,2022.0
+4475,VAM,2015,Sculpture,1821-1822,Italy,Marble,Carved,1821.0,1822.0,1822.0
+4476,VAM,2020,Sculpture,2020,United Kingdom,horse chestnut,turning,2020.0,2020.0,2020.0
+4477,VAM,2018,Sculpture,2018,United Kingdom,concrete,casting,2018.0,2018.0,2018.0
+4490,VAM,2024,Sculpture,2022,,steel,welded,2022.0,2022.0,2022.0
+4491,VAM,2023,Sculpture,,,,,,,
+4492,VAM,2020,Sculpture,2019,,glass,,2019.0,2019.0,2019.0
+4497,VAM,2016,Sculpture,2011,China,porcelain,,2011.0,2011.0,2011.0
+4499,VAM,2023,Sculpture,2022,United States,,,2022.0,2022.0,2022.0
+4500,VAM,2022,Sculpture,2018,Japan,iron,,2018.0,2018.0,2018.0
+4502,VAM,2016,Sculpture,2011,China,porcelain,,2011.0,2011.0,2011.0
+4503,VAM,2016,Sculpture,2011,China,porcelain,,2011.0,2011.0,2011.0
+4506,VAM,2005,Sculpture,1977,,,,1977.0,1977.0,1977.0
+4510,VAM,2014,Sculpture,1988,,glass,moulded,1988.0,1988.0,1988.0
+4512,VAM,2016,Sculpture,2011,China,porcelain,,2011.0,2011.0,2011.0
+4513,VAM,2016,Sculpture,2011,China,porcelain,,2011.0,2011.0,2011.0
+4514,VAM,2016,Sculpture,2011,China,porcelain,,2011.0,2011.0,2011.0
+4515,VAM,2016,Sculpture,2011,China,porcelain,,2011.0,2011.0,2011.0
+4516,VAM,2016,Sculpture,2011,China,porcelain,,2011.0,2011.0,2011.0
+4517,VAM,2016,Sculpture,2011,China,porcelain,,2011.0,2011.0,2011.0
+4518,VAM,2016,Sculpture,2011,China,porcelain,,2011.0,2011.0,2011.0
+4519,VAM,2016,Sculpture,2011,China,porcelain,,2011.0,2011.0,2011.0
+4520,VAM,2014,Sculpture,2009,,ceramic,glazed,2009.0,2009.0,2009.0
+4521,VAM,2018,Sculpture,2017,,glass,Blown,2017.0,2017.0,2017.0
+4526,VAM,2024,Sculpture,2024,Japan,,,2024.0,2024.0,2024.0
+4527,VAM,2022,Sculpture,2022,Japan,stoneware,,2022.0,2022.0,2022.0
+4528,VAM,2024,Sculpture,2023,Japan,,,2023.0,2023.0,2023.0
+4529,VAM,2024,Sculpture,,,,,,,
+4531,VAM,2018,Sculpture,2018,Spain,,,2018.0,2018.0,2018.0
+4532,VAM,2018,Sculpture,2018,Spain,Glass,,2018.0,2018.0,2018.0
+4537,VAM,2014,Sculpture,2005,,glass,Kiln formed,2005.0,2005.0,2005.0
+4539,VAM,2014,Sculpture,2008,,glass,mould-melted,2008.0,2008.0,2008.0
+4540,VAM,2018,Sculpture,2017,China,porcelain,,2017.0,2017.0,2017.0
+4543,VAM,2017,Sculpture,1801,,Terracotta,Modelled,1801.0,1801.0,1801.0
+4545,VAM,2023,Sculpture,2021,Japan,lacquer,,2021.0,2021.0,2021.0
+4547,VAM,2023,Sculpture,2017,Japan,,,2017.0,2017.0,2017.0
+4549,VAM,2019,Sculpture,2018,United Kingdom,porcelain,,2018.0,2018.0,2018.0
+4566,VAM,2024,Sculpture,2023,Germany,stoneware,,2023.0,2023.0,2023.0
+4567,VAM,2010,Sculpture,2007,,glass,lost-wax process,2007.0,2007.0,2007.0
+4568,VAM,2020,Sculpture,1995,,earthenware,,1995.0,1995.0,1995.0
+4569,VAM,2011,Sculpture,2005,,,,2005.0,2005.0,2005.0
+4570,VAM,2023,Sculpture,,,Stainless steel,,,,
+4571,VAM,2023,Sculpture,,,Stainless steel,,,,
+4572,VAM,2021,Sculpture ,2020,Japan,Lacquer,,2020.0,2020.0,2020.0
+4573,VAM,2024,Sculpture,2023,Japan,,,2023.0,2023.0,2023.0
+4576,VAM,2024,Sculpture,2003,,,,2003.0,2003.0,2003.0
+4577,VAM,2005,Sculpture,2004,Netherlands,,,2004.0,2004.0,2004.0
+4579,VAM,2009,Statuette,1905 - 1906,United Kingdom,Spelter,Cast,1905.0,1906.0,1906.0
+4584,VAM,2021,Sculpture,1957-58,,stoneware,,1957.0,58.0,1008.0
+4585,VAM,2024,Sculpture,2023,,,,2023.0,2023.0,2023.0
+4586,VAM,2007,Sculpture,2005,,glass,kiln formed,2005.0,2005.0,2005.0
+4587,VAM,2021,Sculpture,1994,,stoneware,,1994.0,1994.0,1994.0
+4590,VAM,2017,Sculpture,2015,,glass,,2015.0,2015.0,2015.0
+4591,VAM,2018,Sculpture,2010,,Earthenware,glazed,2010.0,2010.0,2010.0
+4592,VAM,2015,Sculpture,1524-1529,United Kingdom,copper,cast,1524.0,1529.0,1526.0
+4593,VAM,2015,Sculpture,1524-1529,United Kingdom,Copper,casting,1524.0,1529.0,1526.0
+4594,VAM,2015,Sculpture,1524-1529,United Kingdom,copper,casting,1524.0,1529.0,1526.0
+4596,VAM,2015,Sculpture,1524-1529,United Kingdom,Copper,casting,1524.0,1529.0,1526.0
+4601,VAM,2005,Sculpture,2004,,lead glass,cut,2004.0,2004.0,2004.0
+4603,VAM,2024,Sculpture,2012,China,lacquer,,2012.0,2012.0,2012.0
+4605,VAM,2021,Sculpture,,,stoneware,,,,
+4606,VAM,2023,Sculpture,2021,,bronze,,2021.0,2021.0,2021.0
+4609,VAM,2013,Textile sculpture,2010,,Manilla hemp,sewing,2010.0,2010.0,2010.0
+4613,VAM,2019,Sculpture,19th century,Thailand,Bronze,,1801.0,1900.0,1850.0
+4617,VAM,2011,Sculpture,2006,,,,2006.0,2006.0,2006.0
+4622,VAM,2018,Sculpture,2018,Spain,resin,,2018.0,2018.0,2018.0
+4625,VAM,2007,Sculpture,2006,,,,2006.0,2006.0,2006.0
+4631,VAM,2011,Sculpture,2011,Japan,Porcelain,Slip-casting,2011.0,2011.0,2011.0
+4638,VAM,2024,Sculpture,2021,,,,2021.0,2021.0,2021.0
+4640,VAM,2018,Sculpture,2017,China,,,2017.0,2017.0,2017.0
+4641,VAM,2024,Sculpture,2016,Japan,glass,Pâte-de-verre,2016.0,2016.0,2016.0
+4648,VAM,2024,Sculpture,2024,,Glass,lost-wax process,2024.0,2024.0,2024.0
+4656,VAM,2012,Sculpture,2011,Japan,Porcelain,Hand-built,2011.0,2011.0,2011.0
+4676,VAM,2007,Sea sculpture,ca. 1725,,ceramic,thrown,1725.0,1725.0,1725.0
+4677,VAM,2007,Sea sculpture,ca. 1725,,earthenware,thrown,1725.0,1725.0,1725.0
+4692,VAM,2018,Sculpture,2016,,porcelain,glazing,2016.0,2016.0,2016.0
+4698,VAM,2023,statuette,1620-1640,Italy,,,1620.0,1640.0,1630.0
+4701,VAM,2020,Bag,2019,,plastic,sewn,2019.0,2019.0,2019.0
+4711,VAM,2021,Ceramic sculpture,,,ceramic,,,,
+4727,VAM,2018,Ceramic sculpture,2010,,porcelain,hand thrown,2010.0,2010.0,2010.0
+4738,VAM,2020,Sculpture,,,ceramic,,,,
+4739,VAM,2012,Statue,1702,United Kingdom,Carrara marble,Carved,1702.0,1702.0,1702.0
+4742,VAM,2024,photograph,2021,,steel,sculpture,2021.0,2021.0,2021.0
+4746,VAM,2023,Sculpture,2022,Denmark,glass,,2022.0,2022.0,2022.0
+4761,VAM,2013,Ceramic sculpture,2013,Egypt,white earthenware,wheel thrown,2013.0,2013.0,2013.0
+4771,VAM,2013,Ceramic sculpture,2012,Egypt,white earthenware,wheel thrown,2012.0,2012.0,2012.0
+4777,VAM,2017,Sculptural group,1876,France,Terracotta,modelled,1876.0,1876.0,1876.0
+4785,VAM,2021,Ceramic sculpture,,,,,,,
+4786,VAM,2021,Ceramic sculpture,,,,,,,
+4792,VAM,2016,Sculpture of Avalokiteshvara,11th century,,,,1001.0,1100.0,1050.0
+4803,VAM,2013,Group,1963,,Bronze,cast,1963.0,1963.0,1963.0
+4927,VAM,2005,Sculptural installation,2001,United Kingdom,,,2001.0,2001.0,2001.0
+4939,VAM,2008,Mask,ca. 1923,United Kingdom,bronze,casting,1923.0,1923.0,1923.0
+4973,VAM,2008,Bronze head,1750-1800,United Kingdom,bronze,bronze casting,1750.0,1800.0,1775.0
+4979,VAM,2011,Plaquette,1984,,bronze,,1984.0,1984.0,1984.0
+4981,VAM,2019,Head,ca. 1746-49,,Soft-paste porcelain,slip-casting,1746.0,49.0,898.0
+4988,VAM,2024,Bust,2011,,Stone,Carving,2011.0,2011.0,2011.0
+5008,VAM,2013,Marble bust,,,Marble,Carved,,,
+5024,VAM,2008,Form,2007,,glass,,2007.0,2007.0,2007.0
+5026,VAM,2008,Bronze head,1750-1800,United Kingdom,bronze,bronze casting,1750.0,1800.0,1775.0
+5037,VAM,2022,Statuette,1859,France,ivory,carved,1859.0,1859.0,1859.0
+5071,VAM,2017,Balancing Bowl (3),2016,United Kingdom,silver,raising,2016.0,2016.0,2016.0
+5102,VAM,2008,Relief,1930,,bronze,casting,1930.0,1930.0,1930.0
+5114,VAM,2016,Bust,ca. 1929,,ivory,,1929.0,1929.0,1929.0
+5115,VAM,2016,Relief,ca. 1740 - ca. 1769,United Kingdom,ivory,carving,1740.0,1769.0,1754.0
+5128,VAM,2024,Relief,ca. 1200,United Kingdom,walrus tusk ivory,carving,1200.0,1200.0,1200.0
+5142,VAM,2012,Form,1972,,glass,mould-blown,1972.0,1972.0,1972.0
+5193,VAM,2016,Head of a Dog,c.1600,Italy,Bronze,hollow-cast,1600.0,1600.0,1600.0
+5220,VAM,2016,Devil's Trumpet,2016,,steel,soldering,2016.0,2016.0,2016.0
+5224,VAM,2005,Form,2003,Denmark,ceramic,glazing (coating),2003.0,2003.0,2003.0
+5280,VAM,2021,Relief,ca. 1696-1700,,ivory,relief,1696.0,1700.0,1698.0
+5281,VAM,2016,Chair,1963,Denmark,teak,moulding,1963.0,1963.0,1963.0
+5298,VAM,2014,Sculptural form,2014,Japan,Glass,,2014.0,2014.0,2014.0
+5301,VAM,2023,Group,2018,United Kingdom,,welding,2018.0,2018.0,2018.0
+5315,VAM,2014,Installation,1972,,glass,hand-blown,1972.0,1972.0,1972.0
+5318,VAM,2009,Stele,400-600 AD,India,Sandstone,Carving,,,
+5330,VAM,2005,Form,1974,United Kingdom,,,1974.0,1974.0,1974.0
+5334,VAM,2017,figure,2016,United Kingdom,glass,assembled,2016.0,2016.0,2016.0
+5344,VAM,2017,figure,2016,United Kingdom,acrylic gypsum fibre glass (jesmonite),lamp-working,2016.0,2016.0,2016.0
+5356,VAM,2023,"Mask of Hanako, Type E Study",1912,France,,,1912.0,1912.0,1912.0
+5357,VAM,2009,Medal,2009,United Kingdom,silver,struck,2009.0,2009.0,2009.0
+5366,VAM,2008,Statuette,1700-1705,,silver,casting,1700.0,1705.0,1702.0
+5382,VAM,2017,'Shadow' pendant,1974,Italy,Silver,Casting,1974.0,1974.0,1974.0
+5400,VAM,2013,Figure,1635,,tin-glazed earthenware,painted,1635.0,1635.0,1635.0
+5404,VAM,2009,Form,2008,,,,2008.0,2008.0,2008.0
+5408,VAM,2024,Ring,1967,,gold,,1967.0,1967.0,1967.0
+5442,VAM,2009,Figure,,,,,,,
+5448,VAM,2017,Bust,,,Terracotta,cast,,,
+5475,VAM,2013,Sculptural form,2013,United Kingdom,porcelain and stoneware mixed,hand-building,2013.0,2013.0,2013.0
+5503,VAM,2012,Figure,ca. 1908-1919,,,,1908.0,1919.0,1914.0
+5512,VAM,2006,Bra,1970,United Kingdom,brass,hammered,1970.0,1970.0,1970.0
+5531,VAM,2005,Photograph,1867-1868,India,albumen,,1867.0,1868.0,1868.0
+5546,VAM,2008,Double bowl,2008,United Kingdom,silver,soldering,2008.0,2008.0,2008.0
+5641,VAM,2008,Bonbonniere,ca. 1800,Italy,mosaic glass,micromosaic,1800.0,1800.0,1800.0
+5795,VAM,2013,statuette,1630-1640,,Alabaster,Carved,1630.0,1640.0,1635.0
+5818,VAM,2013,Ring,1980,United Kingdom,fine silver,carving,1980.0,1980.0,1980.0
+5821,VAM,2016,White Ghost,2009,Germany,borosilicate glass,kiln,2009.0,2009.0,2009.0
+5870,VAM,2007,Figure,early 20th century,India,wood,,1901.0,2000.0,1950.0
+5873,VAM,2010,Relief,ca. 1500,United Kingdom,alabaster,carved,1500.0,1500.0,1500.0
+6045,VAM,2014,Breakfast Bouquet,2010,Germany,silver,folding,2010.0,2010.0,2010.0
+6098,VAM,2009,Group,ca. 1935 - ca. 1940,,ivory,carving,1935.0,1940.0,1938.0
+6109,VAM,2016,Relief,ca. 1740-69,United Kingdom,ivory,carving,1740.0,69.0,904.0
+6204,VAM,2006,Bust,,,bronze,,,,
+6208,VAM,2007,Shrine,early 20th century,,copper alloy,casting,1901.0,2000.0,1950.0
+6217,VAM,2024,Brooch,1998,United States,papier-mâché,painting,1998.0,1998.0,1998.0
+6221,VAM,2007,Bangle,ca. 1925,France,Brass,,1925.0,1925.0,1925.0
+6225,VAM,2018,Balcony railing,2013-2014,United Kingdom,bronze,forging,2013.0,2014.0,2014.0
+6227,VAM,2024,Brooch,2022,,titanium,stone-setting,2022.0,2022.0,2022.0
+6280,VAM,2011,Relief,1796,Italy,Marble,Carved,1796.0,1796.0,1796.0
+6324,VAM,2024,Brooch,1998,United States,papier-mâché,jewellery-making,1998.0,1998.0,1998.0
+6332,VAM,2024,Brooch,1998,United States,,,1998.0,1998.0,1998.0
+6340,VAM,2008,Mosaic picture,ca. 1800,Italy,mosaic glass,micromosaic,1800.0,1800.0,1800.0
+6346,VAM,2007,Earring,ca. 1870,,gold,stone-cutting,1870.0,1870.0,1870.0
+6379,VAM,2010,Candlestick,1744-1745,United Kingdom,silver,casting,1744.0,1745.0,1744.0
+6381,VAM,2012,Medal,2006,,brass,,2006.0,2006.0,2006.0
+6385,VAM,2005,Relief,after 1894,United Kingdom,bronze,cast,1894.0,1894.0,1894.0
+6400,VAM,2008,Statuette,1700-1705,,silver,casting,1700.0,1705.0,1702.0
+6439,VAM,2005,Figure,16th century,,Bronze,Gilding,1501.0,1600.0,1550.0
+6444,VAM,2007,Ring,1991,United Kingdom,,,1991.0,1991.0,1991.0
+6449,VAM,2010,Figure,2009,,earthenware,,2009.0,2009.0,2009.0
+6458,VAM,2017,Photograph,c. 1897,,photographic paper,platinum process,1897.0,1897.0,1897.0
+6485,VAM,2007,Pendant,ca. 1880,United States,gold,,1880.0,1880.0,1880.0
+6487,VAM,2009,Figure group,1794,France,porcelain,,1794.0,1794.0,1794.0
+6488,VAM,2005,Print,1998,,cloth,sewing,1998.0,1998.0,1998.0
+6499,VAM,2013,Door stop,1848,United Kingdom,cast iron,casting,1848.0,1848.0,1848.0
+6514,VAM,2005,Fire basket,1930,United Kingdom,iron,casting,1930.0,1930.0,1930.0
+6518,VAM,2006,Brooch,1969,United Kingdom,gold,,1969.0,1969.0,1969.0
+6548,VAM,2012,Installation,2011,,Earthenware,,2011.0,2011.0,2011.0
+6550,VAM,2023,Photograph,ca. 1897,,photographic paper,photography,1897.0,1897.0,1897.0
+6558,VAM,2017,Aumbry door,1956,,aluminium,casting,1956.0,1956.0,1956.0
+6567,VAM,2007,Pot,ca. 2006,,stoneware,glazed,2006.0,2006.0,2006.0
+6595,VAM,2016,Ring and case,2015,United Kingdom,gold,,2015.0,2015.0,2015.0
+6607,VAM,2009,Face mask,1972,United Kingdom,gold,stone setting,1972.0,1972.0,1972.0
+6622,VAM,2011,Brooch,ca. 1860,Italy,gold,casting,1860.0,1860.0,1860.0
+6629,VAM,2008,Jar,3500 BC-2500 BC,,earthenware,hand-built,-3500.0,-2500.0,-3000.0
+6630,VAM,2007,Pendant,1860-1880,,gold,,1860.0,1880.0,1870.0
+6635,VAM,2022,Bust,2019,United Kingdom,Parian ware,,2019.0,2019.0,2019.0
+6658,VAM,2007,Figure,early 20th century,India,wood,,1901.0,2000.0,1950.0
+6713,VAM,2006,Necklace,ca. 1970,Switzerland,gold,,1970.0,1970.0,1970.0
+6730,VAM,2006,Brooch-pendant,1969,United Kingdom,gold,stone setting,1969.0,1969.0,1969.0
+6731,VAM,2006,Necklace,2005,Netherlands,paper,,2005.0,2005.0,2005.0
+6732,VAM,2010,Architectural model,1980,United States,cardboard,,1980.0,1980.0,1980.0
+6750,VAM,2010,Necklace,1998,Italy,,,1998.0,1998.0,1998.0
+6752,VAM,2017, Hare and case,,Russia,smoky quartz,carving,,,
+6755,VAM,2012,Print,1695-1698,Netherlands,,etching,1695.0,1698.0,1696.0
+6756,VAM,2012,Print,1695-1698,Netherlands,,etching,1695.0,1698.0,1696.0
+6757,VAM,2009,Mosaic,ca. 1865,United Kingdom,mosaic glass,mosaic,1865.0,1865.0,1865.0
+6777,VAM,2017,Bust,,,,,,,
+6813,VAM,2006,Medal,1995-1996,United Kingdom,bronze,casting,1995.0,1996.0,1996.0
+6818,VAM,2010,Medal,2010,United Kingdom,bronze,cast,2010.0,2010.0,2010.0
+6829,VAM,2023,Medal,1999,United Kingdom,silver,cast,1999.0,1999.0,1999.0
+6830,VAM,2022,Medal,1995-1996,,bronze,cast,1995.0,1996.0,1996.0
+6831,VAM,2016,Digital drawing ,2002,,,,2002.0,2002.0,2002.0
+6860,VAM,2015,Edge of Chaos II,2015,Belgium,silver,oxidizing,2015.0,2015.0,2015.0
+6864,VAM,2007,Model,1660-1680,Italy,Terracotta,,1660.0,1680.0,1670.0
+6872,VAM,2007,Vessel,2005,Netherlands,glass,wheel engraved,2005.0,2005.0,2005.0
+6882,VAM,2024,Earring,30/05/2024,United States,ceramic,setting,,,
+6884,VAM,2013,Ring,1945-46,United States,silver,,1945.0,46.0,996.0
+6889,VAM,2005,Waster,1650-1670,Netherlands,,,1650.0,1670.0,1660.0
+6890,VAM,2024,Brooch,1998,United States,wood,,1998.0,1998.0,1998.0
+6893,VAM,2012,Ring ,2011,United Kingdom,gold,,2011.0,2011.0,2011.0
+6948,VAM,2008,Figurine,750-800,China,earthenware,painted,750.0,800.0,775.0
+6969,VAM,2013,figure,c.1832,,bone china,slip cast,1832.0,1832.0,1832.0
+6972,VAM,2006,Brooch,ca. 1970,,gold,,1970.0,1970.0,1970.0
+6974,VAM,2016,Statuette,1928-1929,,,,1928.0,1929.0,1928.0
+6976,VAM,2023,Figure,,,bronze,,,,
+6978,VAM,2012,Bust,,,bronze,,,,
+6982,VAM,2006,Brooch,ca. 1970,,gold,,1970.0,1970.0,1970.0
+6994,VAM,2013,Bracelet,ca. 1946,United States,silver,,1946.0,1946.0,1946.0
+6995,VAM,2008,T-shirt,1978,United Kingdom,cotton (textile),screen printing,1978.0,1978.0,1978.0
+7001,VAM,2012,Vase,ca. 1966,United Kingdom,glass,mould-blown,1966.0,1966.0,1966.0
+7003,VAM,2018,Ceramic,1965,,porcelain,moulding,1965.0,1965.0,1965.0
+7009,VAM,2009,Water pot,1900-1924,,,,1900.0,1924.0,1912.0
+7012,VAM,2020,Sans Titre 33,,,,,,,
+7014,VAM,2006,Ring,1959-1960,,Silver,,1959.0,1960.0,1960.0
+7024,VAM,2024,Photograph,1973,,photographic paper,gelatin silver,1973.0,1973.0,1973.0
+7025,VAM,2024,Photograph,1973,,photographic paper,gelatin silver,1973.0,1973.0,1973.0
+7034,VAM,2022,Prototype,2009,United Kingdom,stainless steel,,2009.0,2009.0,2009.0
+7035,VAM,2022,Prototype,2009,United Kingdom,stainless steel,,2009.0,2009.0,2009.0
+7048,VAM,2007,Figure,ca. 1830,,Earthenware,,1830.0,1830.0,1830.0
+7056,VAM,2021,Tea bowl,2015,Japan,Stoneware,,2015.0,2015.0,2015.0
+7064,VAM,2022,Ring,2021,United Kingdom,White gold,,2021.0,2021.0,2021.0
+7065,VAM,2022,Ring,2021,United Kingdom,White gold,,2021.0,2021.0,2021.0
+7066,VAM,2010,Storage box,1983,Italy,steel,chrome plating,1983.0,1983.0,1983.0
+7070,VAM,2020,Ring,2012,United Kingdom,oxidised silver,casting,2012.0,2012.0,2012.0
+7075,VAM,2018,Medal,,,,,,,
+7079,VAM,2020,Sans Titre 44,,,,,,,
+7085,VAM,2013,Cufflink,1930-40,France,brass,,1930.0,40.0,985.0
+7198,VAM,2024,Zen II,2016,,sterling silver,raised,2016.0,2016.0,2016.0
+7201,VAM,2023,statuette,17th century,,Loxodonta africana,carved,1601.0,1700.0,1650.0
+7223,VAM,2014,Plaster cast,ca. 1140-1150,Italy,,,1140.0,1150.0,1145.0
+7243,VAM,2014,Figure,ca. 1747,,porcelain,moulded,1747.0,1747.0,1747.0
+7269,VAM,2008,Miniature relief,ca. 1620,Germany,gold,chasing,1620.0,1620.0,1620.0
+7294,VAM,2010,Figure,1403-1424,China,brass,gilding,1403.0,1424.0,1414.0
+7335,VAM,2023,Crucifix,c.1630-1650,Italy,Ivory,carved,1630.0,1650.0,1640.0
+7352,VAM,2020,Lamp,1999,,polypropylene,injection,1999.0,1999.0,1999.0
+7357,VAM,2022,Amber Red Vessel Form,,,glass,Kiln formed,,,
+7400,VAM,2016,Vessel,2015,,clay,,2015.0,2015.0,2015.0
+7401,VAM,2016,Vessel,2015,,clay,,2015.0,2015.0,2015.0
+7402,VAM,2016,Vessel,2015,,clay,,2015.0,2015.0,2015.0
+7412,VAM,2007,Cuff bracelet,1994,United Kingdom,silver,,1994.0,1994.0,1994.0
+7420,VAM,2007,Pendant,1999-2000,United Kingdom,brass,,1999.0,2000.0,2000.0
+7431,VAM,2007,Brooch,1990,United Kingdom,gold,electroforming,1990.0,1990.0,1990.0
+7451,VAM,2007,Pendant,2006,United Kingdom,silver,,2006.0,2006.0,2006.0
+7452,VAM,2007,Brooch,1988,United Kingdom,gold,,1988.0,1988.0,1988.0
+7456,VAM,2009,statuette,ca. 1500,Italy,Bronze,Cast,1500.0,1500.0,1500.0
+7515,VAM,2024,Jewellery,2013,United Kingdom,gold,hand carving,2013.0,2013.0,2013.0
+7697,VAM,2012,table,1680-1700,Italy,boxwood,carving,1680.0,1700.0,1690.0
+7762,VAM,2024,photographs,2023,,,photo montage,2023.0,2023.0,2023.0
+7766,VAM,2019,Fresh-water jar,2018,,Stoneware,Hand-built,2018.0,2018.0,2018.0
+7874,VAM,2018,Tudor Glass with Coral Reef,2016,United Kingdom,Corallium rubrum,stone-setting,2016.0,2016.0,2016.0
+7883,VAM,2014,Model,2011,United Kingdom,silver,cutting,2011.0,2011.0,2011.0
+7891,VAM,2007,Necklace part,1987-1988,United Kingdom,Copper alloy,,1987.0,1988.0,1988.0
+7900,VAM,2016,Royal Mantel Clock,1736,United Kingdom,enamel,chasing,1736.0,1736.0,1736.0
+8027,VAM,2009,Mosaic,ca. 1869,United Kingdom,ceramic,mosaic,1869.0,1869.0,1869.0
+8040,VAM,2014,Installation,2012,United Kingdom,glass,enamelled,2012.0,2012.0,2012.0
+8071,VAM,2007,Necklace,2005,United Kingdom,clay,,2005.0,2005.0,2005.0
+8079,VAM,2019,Screen gate,1862,,,,1862.0,1862.0,1862.0
+8093,VAM,2019,Screen Gate,1862,,brass,painted,1862.0,1862.0,1862.0
+8095,VAM,2009,Vase,2006,China,Porcelain,,2006.0,2006.0,2006.0
+8110,VAM,2018,Victoria and Albert Gate,1982,,steel,forging,1982.0,1982.0,1982.0
+8151,VAM,2020,Brooch,2018,,titanium,lost-wax process,2018.0,2018.0,2018.0
+8156,VAM,2009,Bottle,,,stoneware,glazing,,,
+8164,VAM,2016,Chair,1927-1928,Germany,tubular steel,,1927.0,1928.0,1928.0
+8170,VAM,2017,Ewer,1850-1950,United Kingdom,Plaster,Cast,1850.0,1950.0,1900.0
+8194,VAM,2019,Armchair,1888,United Kingdom,mahogany,,1888.0,1888.0,1888.0
+8203,VAM,2007,Ewer,1711-1712,,silver,,1711.0,1712.0,1712.0
+8215,VAM,2007,Basin,1711-1712,,silver,raised,1711.0,1712.0,1712.0
+8234,VAM,2011,Plaque,1876,United Kingdom,copper,electroforming,1876.0,1876.0,1876.0
+8239,VAM,2013,Painting,c. 1700,France,,,1700.0,1700.0,1700.0

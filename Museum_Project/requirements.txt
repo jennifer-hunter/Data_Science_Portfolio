@@ -1,0 +1,29 @@
+# Core data analysis
+pandas
+numpy
+python-dateutil
+
+# Visualisation
+matplotlib
+seaborn
+plotly
+kaleido
+prophet
+
+# Machine learning and statistics
+scikit-learn
+statsmodels
+xgboost
+scipy
+
+# Notebooks and Jupyter environment
+jupyter
+notebook
+
+# File handling
+openpyxl
+odfpy
+xlrd
+
+# Web requests for APIs
+requests

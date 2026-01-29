@@ -1,0 +1,811 @@
+Museum,Year,Income,IncomeType
+British Museum,2008/09,3100000,Admissions
+Museum of the Home,2008/09,,Admissions
+Horniman Museum,2008/09,5809,Admissions
+Imperial War Museums,2008/09,4752000,Admissions
+Museum of Science and Industry in Manchester,2008/09,1541874,Admissions
+National Gallery,2008/09,1459000,Admissions
+National Museums Liverpool,2008/09,,Admissions
+National Portrait Gallery,2008/09,1828371,Admissions
+Natural History Museum,2008/09,1942000,Admissions
+Royal Armouries,2008/09,75000,Admissions
+Royal Museums Greenwich,2008/09,337827,Admissions
+Science Museum Group,2008/09,253000,Admissions
+Sir John Soane's Museum,2008/09,11634,Admissions
+Tate Gallery Group,2008/09,7194000,Admissions
+Tyne and Wear Museums,2008/09,43862,Admissions
+Victoria and Albert Museum,2008/09,2737000,Admissions
+Wallace Collection,2008/09,,Admissions
+Total,2008/09,25281000,Admissions
+British Museum,2009/10,2200000,Admissions
+Museum of the Home,2009/10,,Admissions
+Horniman Museum,2009/10,236505,Admissions
+Imperial War Museums,2009/10,5552000,Admissions
+Museum of Science and Industry in Manchester,2009/10,113553,Admissions
+National Gallery,2009/10,1570000,Admissions
+National Museums Liverpool,2009/10,,Admissions
+National Portrait Gallery,2009/10,1390642,Admissions
+Natural History Museum,2009/10,1360000,Admissions
+Royal Armouries,2009/10,117000,Admissions
+Royal Museums Greenwich,2009/10,52775086,Admissions
+Science Museum Group,2009/10,802000,Admissions
+Sir John Soane's Museum,2009/10,23281,Admissions
+Tate Gallery Group,2009/10,5625000,Admissions
+Tyne and Wear Museums,2009/10,89328,Admissions
+Victoria and Albert Museum,2009/10,3118000,Admissions
+Wallace Collection,2009/10,,Admissions
+Total,2009/10,22725000,Admissions
+British Museum,2011/12,2200000,Admissions
+Museum of the Home,2011/12,,Admissions
+Horniman Museum,2011/12,222318,Admissions
+Imperial War Museums,2011/12,6147000,Admissions
+Museum of Science and Industry in Manchester,2011/12,,Admissions
+National Gallery,2011/12,3533000,Admissions
+National Museums Liverpool,2011/12,289000,Admissions
+National Portrait Gallery,2011/12,1711704,Admissions
+Natural History Museum,2011/12,2390000,Admissions
+Royal Armouries,2011/12,71000,Admissions
+Royal Museums Greenwich,2011/12,2239000,Admissions
+Science Museum Group,2011/12,38000,Admissions
+Sir John Soane's Museum,2011/12,31240,Admissions
+Tate Gallery Group,2011/12,6379000,Admissions
+Tyne and Wear Museums,2011/12,54380,Admissions
+Victoria and Albert Museum,2011/12,4004000,Admissions
+Wallace Collection,2011/12,,Admissions
+Total,2011/12,29310000,Admissions
+British Museum,2012/13,1200000,Admissions
+Museum of the Home,2012/13,,Admissions
+Horniman Museum,2012/13,345057,Admissions
+Imperial War Museums,2012/13,6438923,Admissions
+Museum of Science and Industry in Manchester,2012/13,,Admissions
+National Gallery,2012/13,858000,Admissions
+National Museums Liverpool,2012/13,52213,Admissions
+National Portrait Gallery,2012/13,2257448,Admissions
+Natural History Museum,2012/13,2060000,Admissions
+Royal Armouries,2012/13,111000,Admissions
+Royal Museums Greenwich,2012/13,2602000,Admissions
+Science Museum Group,2012/13,,Admissions
+Sir John Soane's Museum,2012/13,41933,Admissions
+Tate Gallery Group,2012/13,10826000,Admissions
+Tyne and Wear Museums,2012/13,51965,Admissions
+Victoria and Albert Museum,2012/13,4361400,Admissions
+Wallace Collection,2012/13,,Admissions
+Total,2012/13,31206000,Admissions
+British Museum,2013/14,5700000,Admissions
+Museum of the Home,2013/14,,Admissions
+Horniman Museum,2013/14,464681,Admissions
+Imperial War Museums,2013/14,8011000,Admissions
+Museum of Science and Industry in Manchester,2013/14,,Admissions
+National Gallery,2013/14,1400000,Admissions
+National Museums Liverpool,2013/14,,Admissions
+National Portrait Gallery,2013/14,1809309,Admissions
+Natural History Museum,2013/14,2460000,Admissions
+Royal Armouries,2013/14,98000,Admissions
+Royal Museums Greenwich,2013/14,3371618,Admissions
+Science Museum Group,2013/14,466000,Admissions
+Sir John Soane's Museum,2013/14,53037,Admissions
+Tate Gallery Group,2013/14,6850000,Admissions
+Tyne and Wear Museums,2013/14,117413,Admissions
+Victoria and Albert Museum,2013/14,5941000,Admissions
+Wallace Collection,2013/14,,Admissions
+Total,2013/14,36742000,Admissions
+British Museum,2015/16,2500000,Admissions
+Museum of the Home,2015/16,,Admissions
+Horniman Museum,2015/16,455000,Admissions
+Imperial War Museums,2015/16,9525000,Admissions
+Museum of Science and Industry in Manchester,2015/16,,Admissions
+National Gallery,2015/16,3422000,Admissions
+National Museums Liverpool,2015/16,278558,Admissions
+National Portrait Gallery,2015/16,2557145,Admissions
+Natural History Museum,2015/16,3270000,Admissions
+Royal Armouries,2015/16,79055,Admissions
+Royal Museums Greenwich,2015/16,5150512,Admissions
+Science Museum Group,2015/16,1884000,Admissions
+Sir John Soane's Museum,2015/16,54526,Admissions
+Tate Gallery Group,2015/16,5139000,Admissions
+Tyne and Wear Museums,2015/16,,Admissions
+Victoria and Albert Museum,2015/16,7699000,Admissions
+Wallace Collection,2015/16,,Admissions
+Total,2015/16,42014000,Admissions
+British Museum,2016/17,3000000,Admissions
+Museum of the Home,2016/17,,Admissions
+Horniman Museum,2016/17,568000,Admissions
+Imperial War Museums,2016/17,9919000,Admissions
+Museum of Science and Industry in Manchester,2016/17,,Admissions
+National Gallery,2016/17,2800000,Admissions
+National Museums Liverpool,2016/17,55878,Admissions
+National Portrait Gallery,2016/17,2652273,Admissions
+Natural History Museum,2016/17,2920000,Admissions
+Royal Armouries,2016/17,45635,Admissions
+Royal Museums Greenwich,2016/17,5706775,Admissions
+Science Museum Group,2016/17,1864519,Admissions
+Sir John Soane's Museum,2016/17,72514,Admissions
+Tate Gallery Group,2016/17,8205000,Admissions
+Tyne and Wear Museums,2016/17,,Admissions
+Victoria and Albert Museum,2016/17,5891000,Admissions
+Wallace Collection,2016/17,,Admissions
+Total,2016/17,43701000,Admissions
+British Museum,2017/18,2200000,Admissions
+Museum of the Home,2017/18,,Admissions
+Horniman Museum,2017/18,758000,Admissions
+Imperial War Museums,2017/18,10855000,Admissions
+Museum of Science and Industry in Manchester,2017/18,,Admissions
+National Gallery,2017/18,1800000,Admissions
+National Museums Liverpool,2017/18,1707400,Admissions
+National Portrait Gallery,2017/18,1969542,Admissions
+Natural History Museum,2017/18,3580000,Admissions
+Royal Armouries,2017/18,72725,Admissions
+Royal Museums Greenwich,2017/18,6083593,Admissions
+Science Museum Group,2017/18,2413000,Admissions
+Sir John Soane's Museum,2017/18,52349,Admissions
+Tate Gallery Group,2017/18,10941000,Admissions
+Tyne and Wear Museums,2017/18,,Admissions
+Victoria and Albert Museum,2017/18,5976000,Admissions
+Wallace Collection,2017/18,,Admissions
+Total,2017/18,48409000,Admissions
+British Museum,2018/19,2000000,Admissions
+Museum of the Home,2018/19,,Admissions
+Horniman Museum,2018/19,724000,Admissions
+Imperial War Museums,2018/19,12040000,Admissions
+Museum of Science and Industry in Manchester,2018/19,,Admissions
+National Gallery,2018/19,4400000,Admissions
+National Museums Liverpool,2018/19,4961000,Admissions
+National Portrait Gallery,2018/19,1574552,Admissions
+Natural History Museum,2018/19,3460000,Admissions
+Royal Armouries,2018/19,96051,Admissions
+Royal Museums Greenwich,2018/19,7318909,Admissions
+Science Museum Group,2018/19,1835000,Admissions
+Sir John Soane's Museum,2018/19,76612,Admissions
+Tate Gallery Group,2018/19,10835000,Admissions
+Tyne and Wear Museums,2018/19,,Admissions
+Victoria and Albert Museum,2018/19,9470000,Admissions
+Wallace Collection,2018/19,,Admissions
+Total,2018/19,58791000,Admissions
+British Museum,2019/20,4300000,Admissions
+Museum of the Home,2019/20,,Admissions
+Horniman Museum,2019/20,766000,Admissions
+Imperial War Museums,2019/20,12684000,Admissions
+Museum of Science and Industry in Manchester,2019/20,,Admissions
+National Gallery,2019/20,3300000,Admissions
+National Museums Liverpool,2019/20,640000,Admissions
+National Portrait Gallery,2019/20,2262152,Admissions
+Natural History Museum,2019/20,2850000,Admissions
+Royal Armouries,2019/20,58709,Admissions
+Royal Museums Greenwich,2019/20,7760705,Admissions
+Science Museum Group,2019/20,1725000,Admissions
+Sir John Soane's Museum,2019/20,112963,Admissions
+Tate Gallery Group,2019/20,13195000,Admissions
+Tyne and Wear Museums,2019/20,,Admissions
+Victoria and Albert Museum,2019/20,9260000,Admissions
+Wallace Collection,2019/20,317000,Admissions
+Total,2019/20,59232000,Admissions
+British Museum,2020/21,300000,Admissions
+Museum of the Home,2020/21,,Admissions
+Horniman Museum,2020/21,110000,Admissions
+Imperial War Museums,2020/21,1338000,Admissions
+Museum of Science and Industry in Manchester,2020/21,,Admissions
+National Gallery,2020/21,5500000,Admissions
+National Museums Liverpool,2020/21,112000,Admissions
+National Portrait Gallery,2020/21,1986000,Admissions
+Natural History Museum,2020/21,210000,Admissions
+Royal Armouries,2020/21,1665,Admissions
+Royal Museums Greenwich,2020/21,429204,Admissions
+Science Museum Group,2020/21,170000,Admissions
+Sir John Soane's Museum,2020/21,1014,Admissions
+Tate Gallery Group,2020/21,1594000,Admissions
+Tyne and Wear Museums,2020/21,,Admissions
+Victoria and Albert Museum,2020/21,1712000,Admissions
+Wallace Collection,2020/21,28000,Admissions
+Total,2020/21,13492000,Admissions
+British Museum,2021/22,2800000,Admissions
+Museum of the Home,2021/22,,Admissions
+Horniman Museum,2021/22,460000,Admissions
+Imperial War Museums,2021/22,6485000,Admissions
+Museum of Science and Industry in Manchester,2021/22,,Admissions
+National Gallery,2021/22,1700000,Admissions
+National Museums Liverpool,2021/22,331000,Admissions
+National Portrait Gallery,2021/22,1548000,Admissions
+Natural History Museum,2021/22,3840000,Admissions
+Royal Armouries,2021/22,33517,Admissions
+Royal Museums Greenwich,2021/22,2475236,Admissions
+Science Museum Group,2021/22,1653000,Admissions
+Sir John Soane's Museum,2021/22,35115,Admissions
+Tate Gallery Group,2021/22,4599000,Admissions
+Tyne and Wear Museums,2021/22,,Admissions
+Victoria and Albert Museum,2021/22,5667000,Admissions
+Wallace Collection,2021/22,216000,Admissions
+Total,2021/22,31843000,Admissions
+British Museum,2022/23,3100000,Admissions
+Museum of the Home,2022/23,,Admissions
+Horniman Museum,2022/23,778000,Admissions
+Imperial War Museums,2022/23,15043000,Admissions
+Museum of Science and Industry in Manchester,2022/23,,Admissions
+National Gallery,2022/23,5500000,Admissions
+National Museums Liverpool,2022/23,849493,Admissions
+National Portrait Gallery,2022/23,1789000,Admissions
+Natural History Museum,2022/23,3040000,Admissions
+Royal Armouries,2022/23,82975,Admissions
+Royal Museums Greenwich,2022/23,6049828,Admissions
+Science Museum Group,2022/23,3006000,Admissions
+Sir John Soane's Museum,2022/23,95892,Admissions
+Tate Gallery Group,2022/23,8279000,Admissions
+Tyne and Wear Museums,2022/23,,Admissions
+Victoria and Albert Museum,2022/23,8535000,Admissions
+Wallace Collection,2022/23,,Admissions
+Total,2022/23,56148000,Admissions
+British Museum,2023/24,4100000,Admissions
+Museum of the Home,2023/24,,Admissions
+Horniman Museum,2023/24,807421,Admissions
+Imperial War Museums,2023/24,17724000,Admissions
+Museum of Science and Industry in Manchester,2023/24,,Admissions
+National Gallery,2023/24,5600000,Admissions
+National Museums Liverpool,2023/24,663894,Admissions
+National Portrait Gallery,2023/24,5357000,Admissions
+Natural History Museum,2023/24,6900000,Admissions
+Royal Armouries,2023/24,102407,Admissions
+Royal Museums Greenwich,2023/24,8438091,Admissions
+Science Museum Group,2023/24,3793000,Admissions
+Sir John Soane's Museum,2023/24,96424,Admissions
+Tate Gallery Group,2023/24,9297000,Admissions
+Tyne and Wear Museums,2023/24,,Admissions
+Victoria and Albert Museum,2023/24,9830000,Admissions
+Wallace Collection,2023/24,,Admissions
+Total,2023/24,72709000,Admissions
+British Museum,Notes,,Admissions
+Museum of the Home,Notes,,Admissions
+Horniman Museum,Notes,,Admissions
+Imperial War Museums,Notes,28,Admissions
+Museum of Science and Industry in Manchester,Notes,,Admissions
+National Gallery,Notes,,Admissions
+National Museums Liverpool,Notes,,Admissions
+National Portrait Gallery,Notes,,Admissions
+Natural History Museum,Notes,21313,Admissions
+Royal Armouries,Notes,,Admissions
+Royal Museums Greenwich,Notes,,Admissions
+Science Museum Group,Notes,,Admissions
+Sir John Soane's Museum,Notes,,Admissions
+Tate Gallery Group,Notes,218,Admissions
+Tyne and Wear Museums,Notes,,Admissions
+Victoria and Albert Museum,Notes,,Admissions
+Wallace Collection,Notes,,Admissions
+Total,Notes,22222,Admissions
+British Museum,2008/09,3600000,Trading
+Museum of the Home,2008/09,-1190,Trading
+Horniman Museum,2008/09,65600,Trading
+Imperial War Museums,2008/09,4129000,Trading
+Museum of Science and Industry in Manchester,2008/09,332532,Trading
+National Gallery,2008/09,278000,Trading
+National Museums Liverpool,2008/09,221000,Trading
+National Portrait Gallery,2008/09,450000,Trading
+Natural History Museum,2008/09,2821600,Trading
+Royal Armouries,2008/09,313000,Trading
+Royal Museums Greenwich,2008/09,1252590,Trading
+Science Museum Group,2008/09,2285000,Trading
+Sir John Soane's Museum,2008/09,242425,Trading
+Tate Gallery Group,2008/09,29386000,Trading
+Tyne and Wear Museums,2008/09,1295383,Trading
+Victoria and Albert Museum,2008/09,8894000,Trading
+Wallace Collection,2008/09,594000,Trading
+Total,2008/09,56159000,Trading
+British Museum,2009/10,5400000,Trading
+Museum of the Home,2009/10,-13686,Trading
+Horniman Museum,2009/10,68185,Trading
+Imperial War Museums,2009/10,4217000,Trading
+Museum of Science and Industry in Manchester,2009/10,111310,Trading
+National Gallery,2009/10,273000,Trading
+National Museums Liverpool,2009/10,-66112,Trading
+National Portrait Gallery,2009/10,444000,Trading
+Natural History Museum,2009/10,6870000,Trading
+Royal Armouries,2009/10,405000,Trading
+Royal Museums Greenwich,2009/10,1363811,Trading
+Science Museum Group,2009/10,3323000,Trading
+Sir John Soane's Museum,2009/10,272202,Trading
+Tate Gallery Group,2009/10,26705000,Trading
+Tyne and Wear Museums,2009/10,1289498,Trading
+Victoria and Albert Museum,2009/10,10359000,Trading
+Wallace Collection,2009/10,390000,Trading
+Total,2009/10,61411000,Trading
+British Museum,2011/12,12300000,Trading
+Museum of the Home,2011/12,32043,Trading
+Horniman Museum,2011/12,48574,Trading
+Imperial War Museums,2011/12,3278891,Trading
+Museum of Science and Industry in Manchester,2011/12,,Trading
+National Gallery,2011/12,4100000,Trading
+National Museums Liverpool,2011/12,615924,Trading
+National Portrait Gallery,2011/12,765000,Trading
+Natural History Museum,2011/12,9370000,Trading
+Royal Armouries,2011/12,337000,Trading
+Royal Museums Greenwich,2011/12,990000,Trading
+Science Museum Group,2011/12,3822000,Trading
+Sir John Soane's Museum,2011/12,277974,Trading
+Tate Gallery Group,2011/12,26663000,Trading
+Tyne and Wear Museums,2011/12,1203087,Trading
+Victoria and Albert Museum,2011/12,12427000,Trading
+Wallace Collection,2011/12,564000,Trading
+Total,2011/12,76794000,Trading
+British Museum,2012/13,11900000,Trading
+Museum of the Home,2012/13,19026,Trading
+Horniman Museum,2012/13,89417,Trading
+Imperial War Museums,2012/13,3074545,Trading
+Museum of Science and Industry in Manchester,2012/13,,Trading
+National Gallery,2012/13,3293000,Trading
+National Museums Liverpool,2012/13,909517,Trading
+National Portrait Gallery,2012/13,686000,Trading
+Natural History Museum,2012/13,8420000,Trading
+Royal Armouries,2012/13,395256,Trading
+Royal Museums Greenwich,2012/13,352000,Trading
+Science Museum Group,2012/13,2956000,Trading
+Sir John Soane's Museum,2012/13,98137,Trading
+Tate Gallery Group,2012/13,28353000,Trading
+Tyne and Wear Museums,2012/13,1035984,Trading
+Victoria and Albert Museum,2012/13,1869000,Trading
+Wallace Collection,2012/13,485491,Trading
+Total,2012/13,63936000,Trading
+British Museum,2013/14,18500000,Trading
+Museum of the Home,2013/14,10178,Trading
+Horniman Museum,2013/14,149804,Trading
+Imperial War Museums,2013/14,2824328,Trading
+Museum of Science and Industry in Manchester,2013/14,,Trading
+National Gallery,2013/14,3800000,Trading
+National Museums Liverpool,2013/14,1291636,Trading
+National Portrait Gallery,2013/14,715000,Trading
+Natural History Museum,2013/14,9610000,Trading
+Royal Armouries,2013/14,385732,Trading
+Royal Museums Greenwich,2013/14,781906,Trading
+Science Museum Group,2013/14,3109000,Trading
+Sir John Soane's Museum,2013/14,175847,Trading
+Tate Gallery Group,2013/14,25886000,Trading
+Tyne and Wear Museums,2013/14,1147281,Trading
+Victoria and Albert Museum,2013/14,2602000,Trading
+Wallace Collection,2013/14,621001,Trading
+Total,2013/14,71610000,Trading
+British Museum,2015/16,16400000,Trading
+Museum of the Home,2015/16,47138,Trading
+Horniman Museum,2015/16,220000,Trading
+Imperial War Museums,2015/16,5105000,Trading
+Museum of Science and Industry in Manchester,2015/16,,Trading
+National Gallery,2015/16,2557000,Trading
+National Museums Liverpool,2015/16,1674879,Trading
+National Portrait Gallery,2015/16,1226000,Trading
+Natural History Museum,2015/16,11610000,Trading
+Royal Armouries,2015/16,434577,Trading
+Royal Museums Greenwich,2015/16,927660,Trading
+Science Museum Group,2015/16,2726000,Trading
+Sir John Soane's Museum,2015/16,237826,Trading
+Tate Gallery Group,2015/16,660226,Trading
+Tyne and Wear Museums,2015/16,,Trading
+Victoria and Albert Museum,2015/16,8045000,Trading
+Wallace Collection,2015/16,553010,Trading
+Total,2015/16,52424000,Trading
+British Museum,2016/17,14800000,Trading
+Museum of the Home,2016/17,35848,Trading
+Horniman Museum,2016/17,234000,Trading
+Imperial War Museums,2016/17,3717000,Trading
+Museum of Science and Industry in Manchester,2016/17,,Trading
+National Gallery,2016/17,2872000,Trading
+National Museums Liverpool,2016/17,670934,Trading
+National Portrait Gallery,2016/17,1061000,Trading
+Natural History Museum,2016/17,10860000,Trading
+Royal Armouries,2016/17,10954,Trading
+Royal Museums Greenwich,2016/17,876000,Trading
+Science Museum Group,2016/17,2858000,Trading
+Sir John Soane's Museum,2016/17,272485,Trading
+Tate Gallery Group,2016/17,2262031,Trading
+Tyne and Wear Museums,2016/17,,Trading
+Victoria and Albert Museum,2016/17,5269000,Trading
+Wallace Collection,2016/17,525000,Trading
+Total,2016/17,46324000,Trading
+British Museum,2017/18,7800000,Trading
+Museum of the Home,2017/18,23657,Trading
+Horniman Museum,2017/18,253000,Trading
+Imperial War Museums,2017/18,4252000,Trading
+Museum of Science and Industry in Manchester,2017/18,,Trading
+National Gallery,2017/18,3500000,Trading
+National Museums Liverpool,2017/18,2458800,Trading
+National Portrait Gallery,2017/18,764000,Trading
+Natural History Museum,2017/18,11610000,Trading
+Royal Armouries,2017/18,36650,Trading
+Royal Museums Greenwich,2017/18,1538257,Trading
+Science Museum Group,2017/18,3051000,Trading
+Sir John Soane's Museum,2017/18,183224,Trading
+Tate Gallery Group,2017/18,5403000,Trading
+Tyne and Wear Museums,2017/18,,Trading
+Victoria and Albert Museum,2017/18,8077000,Trading
+Wallace Collection,2017/18,521000,Trading
+Total,2017/18,49472000,Trading
+British Museum,2018/19,7600000,Trading
+Museum of the Home,2018/19,,Trading
+Horniman Museum,2018/19,278000,Trading
+Imperial War Museums,2018/19,4986000,Trading
+Museum of Science and Industry in Manchester,2018/19,,Trading
+National Gallery,2018/19,3700000,Trading
+National Museums Liverpool,2018/19,3258800,Trading
+National Portrait Gallery,2018/19,782000,Trading
+Natural History Museum,2018/19,5982000,Trading
+Royal Armouries,2018/19,1116791,Trading
+Royal Museums Greenwich,2018/19,1738909,Trading
+Science Museum Group,2018/19,2533000,Trading
+Sir John Soane's Museum,2018/19,186550,Trading
+Tate Gallery Group,2018/19,4931000,Trading
+Tyne and Wear Museums,2018/19,,Trading
+Victoria and Albert Museum,2018/19,7659000,Trading
+Wallace Collection,2018/19,619000,Trading
+Total,2018/19,45371000,Trading
+British Museum,2019/20,8700000,Trading
+Museum of the Home,2019/20,20907,Trading
+Horniman Museum,2019/20,244000,Trading
+Imperial War Museums,2019/20,4664000,Trading
+Museum of Science and Industry in Manchester,2019/20,,Trading
+National Gallery,2019/20,4100000,Trading
+National Museums Liverpool,2019/20,503000,Trading
+National Portrait Gallery,2019/20,620000,Trading
+Natural History Museum,2019/20,7337000,Trading
+Royal Armouries,2019/20,1836854,Trading
+Royal Museums Greenwich,2019/20,1794810,Trading
+Science Museum Group,2019/20,2389000,Trading
+Sir John Soane's Museum,2019/20,193044,Trading
+Tate Gallery Group,2019/20,4085000,Trading
+Tyne and Wear Museums,2019/20,,Trading
+Victoria and Albert Museum,2019/20,8380000,Trading
+Wallace Collection,2019/20,628000,Trading
+Total,2019/20,45496000,Trading
+British Museum,2020/21,-300000,Trading
+Museum of the Home,2020/21,-74230,Trading
+Horniman Museum,2020/21,15000,Trading
+Imperial War Museums,2020/21,-316000,Trading
+Museum of Science and Industry in Manchester,2020/21,,Trading
+National Gallery,2020/21,1100000,Trading
+National Museums Liverpool,2020/21,150000,Trading
+National Portrait Gallery,2020/21,-31000,Trading
+Natural History Museum,2020/21,-1400000,Trading
+Royal Armouries,2020/21,-250000,Trading
+Royal Museums Greenwich,2020/21,0,Trading
+Science Museum Group,2020/21,314000,Trading
+Sir John Soane's Museum,2020/21,-41521,Trading
+Tate Gallery Group,2020/21,-4030000,Trading
+Tyne and Wear Museums,2020/21,,Trading
+Victoria and Albert Museum,2020/21,-1756000,Trading
+Wallace Collection,2020/21,2000,Trading
+Total,2020/21,-6618000,Trading
+British Museum,2021/22,6200000,Trading
+Museum of the Home,2021/22,13272,Trading
+Horniman Museum,2021/22,216000,Trading
+Imperial War Museums,2021/22,1649000,Trading
+Museum of Science and Industry in Manchester,2021/22,,Trading
+National Gallery,2021/22,2400000,Trading
+National Museums Liverpool,2021/22,395000,Trading
+National Portrait Gallery,2021/22,143000,Trading
+Natural History Museum,2021/22,10300000,Trading
+Royal Armouries,2021/22,921769,Trading
+Royal Museums Greenwich,2021/22,721184,Trading
+Science Museum Group,2021/22,92000,Trading
+Sir John Soane's Museum,2021/22,26916,Trading
+Tate Gallery Group,2021/22,1737931,Trading
+Tyne and Wear Museums,2021/22,,Trading
+Victoria and Albert Museum,2021/22,3355000,Trading
+Wallace Collection,2021/22,358000,Trading
+Total,2021/22,28529000,Trading
+British Museum,2022/23,11200000,Trading
+Museum of the Home,2022/23,24202,Trading
+Horniman Museum,2022/23,311000,Trading
+Imperial War Museums,2022/23,4827000,Trading
+Museum of Science and Industry in Manchester,2022/23,,Trading
+National Gallery,2022/23,3800000,Trading
+National Museums Liverpool,2022/23,626553,Trading
+National Portrait Gallery,2022/23,-226000,Trading
+Natural History Museum,2022/23,15600000,Trading
+Royal Armouries,2022/23,1729504,Trading
+Royal Museums Greenwich,2022/23,1295123,Trading
+Science Museum Group,2022/23,2111000,Trading
+Sir John Soane's Museum,2022/23,217572,Trading
+Tate Gallery Group,2022/23,4688000,Trading
+Tyne and Wear Museums,2022/23,,Trading
+Victoria and Albert Museum,2022/23,5382000,Trading
+Wallace Collection,2022/23,939000,Trading
+Total,2022/23,52525000,Trading
+British Museum,2023/24,14500000,Trading
+Museum of the Home,2023/24,116803,Trading
+Horniman Museum,2023/24,279592,Trading
+Imperial War Museums,2023/24,5418000,Trading
+Museum of Science and Industry in Manchester,2023/24,,Trading
+National Gallery,2023/24,5100000,Trading
+National Museums Liverpool,2023/24,1378881,Trading
+National Portrait Gallery,2023/24,221000,Trading
+Natural History Museum,2023/24,17700000,Trading
+Royal Armouries,2023/24,2227394,Trading
+Royal Museums Greenwich,2023/24,1251570,Trading
+Science Museum Group,2023/24,2797000,Trading
+Sir John Soane's Museum,2023/24,230937,Trading
+Tate Gallery Group,2023/24,3812000,Trading
+Tyne and Wear Museums,2023/24,,Trading
+Victoria and Albert Museum,2023/24,8164000,Trading
+Wallace Collection,2023/24,805000,Trading
+Total,2023/24,64002000,Trading
+British Museum,Notes,,Trading
+Museum of the Home,Notes,,Trading
+Horniman Museum,Notes,,Trading
+Imperial War Museums,Notes,,Trading
+Museum of Science and Industry in Manchester,Notes,,Trading
+National Gallery,Notes,,Trading
+National Museums Liverpool,Notes,,Trading
+National Portrait Gallery,Notes,,Trading
+Natural History Museum,Notes,,Trading
+Royal Armouries,Notes,,Trading
+Royal Museums Greenwich,Notes,,Trading
+Science Museum Group,Notes,,Trading
+Sir John Soane's Museum,Notes,,Trading
+Tate Gallery Group,Notes,,Trading
+Tyne and Wear Museums,Notes,,Trading
+Victoria and Albert Museum,Notes,,Trading
+Wallace Collection,Notes,,Trading
+Total,Notes,,Trading
+British Museum,2008/09,8000000,Fundraising
+Museum of the Home,2008/09,52953,Fundraising
+Horniman Museum,2008/09,398321,Fundraising
+Imperial War Museums,2008/09,3496000,Fundraising
+Museum of Science and Industry in Manchester,2008/09,147000,Fundraising
+National Gallery,2008/09,38879000,Fundraising
+National Museums Liverpool,2008/09,1726998,Fundraising
+National Portrait Gallery,2008/09,5195000,Fundraising
+Natural History Museum,2008/09,2379000,Fundraising
+Royal Armouries,2008/09,744000,Fundraising
+Royal Museums Greenwich,2008/09,333108,Fundraising
+Science Museum Group,2008/09,3128000,Fundraising
+Sir John Soane's Museum,2008/09,497021,Fundraising
+Tate Gallery Group,2008/09,27037000,Fundraising
+Tyne and Wear Museums,2008/09,139064,Fundraising
+Victoria and Albert Museum,2008/09,20127000,Fundraising
+Wallace Collection,2008/09,1173000,Fundraising
+Total,2008/09,113452000,Fundraising
+British Museum,2009/10,15200000,Fundraising
+Museum of the Home,2009/10,38719,Fundraising
+Horniman Museum,2009/10,377637,Fundraising
+Imperial War Museums,2009/10,67010,Fundraising
+Museum of Science and Industry in Manchester,2009/10,2470231,Fundraising
+National Gallery,2009/10,9040000,Fundraising
+National Museums Liverpool,2009/10,3003000,Fundraising
+National Portrait Gallery,2009/10,4014000,Fundraising
+Natural History Museum,2009/10,6870000,Fundraising
+Royal Armouries,2009/10,574000,Fundraising
+Royal Museums Greenwich,2009/10,3420157,Fundraising
+Science Museum Group,2009/10,8720000,Fundraising
+Sir John Soane's Museum,2009/10,1061397,Fundraising
+Tate Gallery Group,2009/10,17643000,Fundraising
+Tyne and Wear Museums,2009/10,200121,Fundraising
+Victoria and Albert Museum,2009/10,17175000,Fundraising
+Wallace Collection,2009/10,2132000,Fundraising
+Total,2009/10,92006000,Fundraising
+British Museum,2011/12,16500000,Fundraising
+Museum of the Home,2011/12,103993,Fundraising
+Horniman Museum,2011/12,1076064,Fundraising
+Imperial War Museums,2011/12,2478000,Fundraising
+Museum of Science and Industry in Manchester,2011/12,,Fundraising
+National Gallery,2011/12,99070000,Fundraising
+National Museums Liverpool,2011/12,1069000,Fundraising
+National Portrait Gallery,2011/12,2631000,Fundraising
+Natural History Museum,2011/12,2260000,Fundraising
+Royal Armouries,2011/12,1026000,Fundraising
+Royal Museums Greenwich,2011/12,8794000,Fundraising
+Science Museum Group,2011/12,5628000,Fundraising
+Sir John Soane's Museum,2011/12,1976881,Fundraising
+Tate Gallery Group,2011/12,20540000,Fundraising
+Tyne and Wear Museums,2011/12,109995,Fundraising
+Victoria and Albert Museum,2011/12,12611000,Fundraising
+Wallace Collection,2011/12,2023000,Fundraising
+Total,2011/12,177897000,Fundraising
+British Museum,2012/13,39500000,Fundraising
+Museum of the Home,2012/13,65700,Fundraising
+Horniman Museum,2012/13,338172,Fundraising
+Imperial War Museums,2012/13,3436968,Fundraising
+Museum of Science and Industry in Manchester,2012/13,,Fundraising
+National Gallery,2012/13,26778000,Fundraising
+National Museums Liverpool,2012/13,885206,Fundraising
+National Portrait Gallery,2012/13,2813000,Fundraising
+Natural History Museum,2012/13,2150000,Fundraising
+Royal Armouries,2012/13,126000,Fundraising
+Royal Museums Greenwich,2012/13,2874000,Fundraising
+Science Museum Group,2012/13,9824000,Fundraising
+Sir John Soane's Museum,2012/13,934905,Fundraising
+Tate Gallery Group,2012/13,53887000,Fundraising
+Tyne and Wear Museums,2012/13,115406,Fundraising
+Victoria and Albert Museum,2012/13,11929000,Fundraising
+Wallace Collection,2012/13,2052000,Fundraising
+Total,2012/13,157709000,Fundraising
+British Museum,2013/14,54200000,Fundraising
+Museum of the Home,2013/14,22010,Fundraising
+Horniman Museum,2013/14,478239,Fundraising
+Imperial War Museums,2013/14,20102000,Fundraising
+Museum of Science and Industry in Manchester,2013/14,,Fundraising
+National Gallery,2013/14,21100000,Fundraising
+National Museums Liverpool,2013/14,1000480,Fundraising
+National Portrait Gallery,2013/14,4264000,Fundraising
+Natural History Museum,2013/14,3520000,Fundraising
+Royal Armouries,2013/14,267000,Fundraising
+Royal Museums Greenwich,2013/14,6137637,Fundraising
+Science Museum Group,2013/14,14045000,Fundraising
+Sir John Soane's Museum,2013/14,1317044,Fundraising
+Tate Gallery Group,2013/14,95123000,Fundraising
+Tyne and Wear Museums,2013/14,82650,Fundraising
+Victoria and Albert Museum,2013/14,15476000,Fundraising
+Wallace Collection,2013/14,3485000,Fundraising
+Total,2013/14,240620000,Fundraising
+British Museum,2015/16,30800000,Fundraising
+Museum of the Home,2015/16,232000,Fundraising
+Horniman Museum,2015/16,408944,Fundraising
+Imperial War Museums,2015/16,7713000,Fundraising
+Museum of Science and Industry in Manchester,2015/16,,Fundraising
+National Gallery,2015/16,15761879,Fundraising
+National Museums Liverpool,2015/16,3171000,Fundraising
+National Portrait Gallery,2015/16,7919000,Fundraising
+Natural History Museum,2015/16,6187000,Fundraising
+Royal Armouries,2015/16,783000,Fundraising
+Royal Museums Greenwich,2015/16,3567000,Fundraising
+Science Museum Group,2015/16,12667000,Fundraising
+Sir John Soane's Museum,2015/16,2058000,Fundraising
+Tate Gallery Group,2015/16,81199000,Fundraising
+Tyne and Wear Museums,2015/16,,Fundraising
+Victoria and Albert Museum,2015/16,25087000,Fundraising
+Wallace Collection,2015/16,5583000,Fundraising
+Total,2015/16,203137000,Fundraising
+British Museum,2016/17,27100000,Fundraising
+Museum of the Home,2016/17,294571,Fundraising
+Horniman Museum,2016/17,738000,Fundraising
+Imperial War Museums,2016/17,9800000,Fundraising
+Museum of Science and Industry in Manchester,2016/17,,Fundraising
+National Gallery,2016/17,11160000,Fundraising
+National Museums Liverpool,2016/17,9062000,Fundraising
+National Portrait Gallery,2016/17,5291000,Fundraising
+Natural History Museum,2016/17,6378000,Fundraising
+Royal Armouries,2016/17,1156429,Fundraising
+Royal Museums Greenwich,2016/17,10981926,Fundraising
+Science Museum Group,2016/17,19497000,Fundraising
+Sir John Soane's Museum,2016/17,962614,Fundraising
+Tate Gallery Group,2016/17,69777000,Fundraising
+Tyne and Wear Museums,2016/17,,Fundraising
+Victoria and Albert Museum,2016/17,29234000,Fundraising
+Wallace Collection,2016/17,4230000,Fundraising
+Total,2016/17,205663000,Fundraising
+British Museum,2017/18,23300000,Fundraising
+Museum of the Home,2017/18,1097231,Fundraising
+Horniman Museum,2017/18,1156000,Fundraising
+Imperial War Museums,2017/18,4063000,Fundraising
+Museum of Science and Industry in Manchester,2017/18,,Fundraising
+National Gallery,2017/18,27100000,Fundraising
+National Museums Liverpool,2017/18,1770893,Fundraising
+National Portrait Gallery,2017/18,7170000,Fundraising
+Natural History Museum,2017/18,6930000,Fundraising
+Royal Armouries,2017/18,445205,Fundraising
+Royal Museums Greenwich,2017/18,5711000,Fundraising
+Science Museum Group,2017/18,17041000,Fundraising
+Sir John Soane's Museum,2017/18,757860,Fundraising
+Tate Gallery Group,2017/18,51666000,Fundraising
+Tyne and Wear Museums,2017/18,,Fundraising
+Victoria and Albert Museum,2017/18,23576000,Fundraising
+Wallace Collection,2017/18,3470000,Fundraising
+Total,2017/18,175254000,Fundraising
+British Museum,2018/19,22800000,Fundraising
+Museum of the Home,2018/19,682492,Fundraising
+Horniman Museum,2018/19,764000,Fundraising
+Imperial War Museums,2018/19,14916000,Fundraising
+Museum of Science and Industry in Manchester,2018/19,,Fundraising
+National Gallery,2018/19,24700000,Fundraising
+National Museums Liverpool,2018/19,1018400,Fundraising
+National Portrait Gallery,2018/19,8411000,Fundraising
+Natural History Museum,2018/19,7700000,Fundraising
+Royal Armouries,2018/19,909622,Fundraising
+Royal Museums Greenwich,2018/19,2360668,Fundraising
+Science Museum Group,2018/19,19630000,Fundraising
+Sir John Soane's Museum,2018/19,1070711,Fundraising
+Tate Gallery Group,2018/19,44912000,Fundraising
+Tyne and Wear Museums,2018/19,,Fundraising
+Victoria and Albert Museum,2018/19,33427000,Fundraising
+Wallace Collection,2018/19,2406000,Fundraising
+Total,2018/19,185708000,Fundraising
+British Museum,2019/20,23700000,Fundraising
+Museum of the Home,2019/20,922055,Fundraising
+Horniman Museum,2019/20,799000,Fundraising
+Imperial War Museums,2019/20,9200000,Fundraising
+Museum of Science and Industry in Manchester,2019/20,,Fundraising
+National Gallery,2019/20,50200000,Fundraising
+National Museums Liverpool,2019/20,1319000,Fundraising
+National Portrait Gallery,2019/20,5818000,Fundraising
+Natural History Museum,2019/20,7921000,Fundraising
+Royal Armouries,2019/20,207332,Fundraising
+Royal Museums Greenwich,2019/20,2255563,Fundraising
+Science Museum Group,2019/20,27520000,Fundraising
+Sir John Soane's Museum,2019/20,1520635,Fundraising
+Tate Gallery Group,2019/20,51282000,Fundraising
+Tyne and Wear Museums,2019/20,,Fundraising
+Victoria and Albert Museum,2019/20,37116000,Fundraising
+Wallace Collection,2019/20,2127000,Fundraising
+Total,2019/20,221908000,Fundraising
+British Museum,2020/21,40400000,Fundraising
+Museum of the Home,2020/21,346517,Fundraising
+Horniman Museum,2020/21,672000,Fundraising
+Imperial War Museums,2020/21,5396000,Fundraising
+Museum of Science and Industry in Manchester,2020/21,,Fundraising
+National Gallery,2020/21,17600000,Fundraising
+National Museums Liverpool,2020/21,1025000,Fundraising
+National Portrait Gallery,2020/21,5653000,Fundraising
+Natural History Museum,2020/21,3000000,Fundraising
+Royal Armouries,2020/21,147898,Fundraising
+Royal Museums Greenwich,2020/21,1326613,Fundraising
+Science Museum Group,2020/21,3666000,Fundraising
+Sir John Soane's Museum,2020/21,1233505,Fundraising
+Tate Gallery Group,2020/21,41309000,Fundraising
+Tyne and Wear Museums,2020/21,,Fundraising
+Victoria and Albert Museum,2020/21,13363000,Fundraising
+Wallace Collection,2020/21,1716000,Fundraising
+Total,2020/21,136855000,Fundraising
+British Museum,2021/22,17200000,Fundraising
+Museum of the Home,2021/22,322531,Fundraising
+Horniman Museum,2021/22,946000,Fundraising
+Imperial War Museums,2021/22,3642000,Fundraising
+Museum of Science and Industry in Manchester,2021/22,,Fundraising
+National Gallery,2021/22,22400000,Fundraising
+National Museums Liverpool,2021/22,3533000,Fundraising
+National Portrait Gallery,2021/22,16174000,Fundraising
+Natural History Museum,2021/22,6400000,Fundraising
+Royal Armouries,2021/22,115442,Fundraising
+Royal Museums Greenwich,2021/22,2180057,Fundraising
+Science Museum Group,2021/22,13411000,Fundraising
+Sir John Soane's Museum,2021/22,1321878,Fundraising
+Tate Gallery Group,2021/22,27706000,Fundraising
+Tyne and Wear Museums,2021/22,,Fundraising
+Victoria and Albert Museum,2021/22,26166000,Fundraising
+Wallace Collection,2021/22,1503000,Fundraising
+Total,2021/22,143021000,Fundraising
+British Museum,2022/23,31300000,Fundraising
+Museum of the Home,2022/23,211145,Fundraising
+Horniman Museum,2022/23,849000,Fundraising
+Imperial War Museums,2022/23,9929000,Fundraising
+Museum of Science and Industry in Manchester,2022/23,,Fundraising
+National Gallery,2022/23,33100000,Fundraising
+National Museums Liverpool,2022/23,10541167,Fundraising
+National Portrait Gallery,2022/23,12332000,Fundraising
+Natural History Museum,2022/23,9200000,Fundraising
+Royal Armouries,2022/23,223476,Fundraising
+Royal Museums Greenwich,2022/23,1822998,Fundraising
+Science Museum Group,2022/23,18563000,Fundraising
+Sir John Soane's Museum,2022/23,1482740,Fundraising
+Tate Gallery Group,2022/23,35749000,Fundraising
+Tyne and Wear Museums,2022/23,,Fundraising
+Victoria and Albert Museum,2022/23,18858000,Fundraising
+Wallace Collection,2022/23,1734000,Fundraising
+Total,2022/23,185896000,Fundraising
+British Museum,2023/24,141500000,Fundraising
+Museum of the Home,2023/24,791642,Fundraising
+Horniman Museum,2023/24,1843000,Fundraising
+Imperial War Museums,2023/24,3975000,Fundraising
+Museum of Science and Industry in Manchester,2023/24,,Fundraising
+National Gallery,2023/24,66000000,Fundraising
+National Museums Liverpool,2023/24,5901460,Fundraising
+National Portrait Gallery,2023/24,25288000,Fundraising
+Natural History Museum,2023/24,9400000,Fundraising
+Royal Armouries,2023/24,263231,Fundraising
+Royal Museums Greenwich,2023/24,3219190,Fundraising
+Science Museum Group,2023/24,19150000,Fundraising
+Sir John Soane's Museum,2023/24,1592931,Fundraising
+Tate Gallery Group,2023/24,38551000,Fundraising
+Tyne and Wear Museums,2023/24,,Fundraising
+Victoria and Albert Museum,2023/24,23852000,Fundraising
+Wallace Collection,2023/24,1864000,Fundraising
+Total,2023/24,343191000,Fundraising
+British Museum,Notes,,Fundraising
+Museum of the Home,Notes,,Fundraising
+Horniman Museum,Notes,,Fundraising
+Imperial War Museums,Notes,,Fundraising
+Museum of Science and Industry in Manchester,Notes,,Fundraising
+National Gallery,Notes,,Fundraising
+National Museums Liverpool,Notes,,Fundraising
+National Portrait Gallery,Notes,,Fundraising
+Natural History Museum,Notes,,Fundraising
+Royal Armouries,Notes,,Fundraising
+Royal Museums Greenwich,Notes,,Fundraising
+Science Museum Group,Notes,,Fundraising
+Sir John Soane's Museum,Notes,,Fundraising
+Tate Gallery Group,Notes,,Fundraising
+Tyne and Wear Museums,Notes,,Fundraising
+Victoria and Albert Museum,Notes,,Fundraising
+Wallace Collection,Notes,,Fundraising
+Total,Notes,,Fundraising
