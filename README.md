@@ -91,7 +91,7 @@ A collaborative data science project analysing UK national museum collections, v
 
 **Technologies:** Python, Pandas, NumPy, Scikit-learn, XGBoost, Statsmodels, Matplotlib, Seaborn, Jupyter Notebooks
 
-**Development Note:** Group project completed with Agile methodology. Individual contributions noted above.
+**Development Note:** Group project completed with Agile methodology.  Code authored by Jennifer Hunter and other contributors without AI assistance. Individual contributions noted in file names.
 
 ---
 
